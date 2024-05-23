@@ -1,0 +1,159 @@
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.pdb
+*.dll
+*.log
+*.cache
+*.dep
+*.dotCover
+*.dotMemory
+*.dotPeek
+*.dll.config
+*.pdb
+*.ncrunch*
+*.suo
+*.user
+*.pdb
+*.cache
+*.log
+*.vspscc
+*.vssscc
+._*
+*.pidb
+*.svclog
+*.log
+*.bak
+*.cache
+*.resx
+*.tmp
+*.cache
+*.ilk
+*.meta
+*.obj
+*.pch
+*.ilk
+*.log
+*.ipch
+*.sqlite
+*.sdf
+*.aps
+*.idb
+*.lastbuildstate
+*.compilecrashreport
+*.log
+*.ruleset
+*.ver
+*.sln.docstates
+*.testsettings
+TestResult.xml
+[Bb]in/
+[Oo]bj/
+packages/
+
+# Visual Studio *.user files
+*.user
+
+# Resharper-specific files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+# GhostDoc plugin setting file
+*.GhostDoc.xml
+
+# Visual Studio 2019 auto generated files
+Generated\ Files/
+Backup*/
+UpgradeLog*.XML
+
+# Rider
+.idea/
+
+# Xamarin-specific
+*.apk
+*.ap_
+*.aab
+*.aab.zip
+*.dylib
+
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Aa]ssets/AssetStoreTools*
+/ProjectSettings/
+ProjectSettings.asset
+*.csproj.user
+*.pidb.meta
+
+# Rider
+.idea/
+
+# End of Visual Studio specific files
+
+# Exclude node_modules folder
+node_modules/
+
+# Exclude NuGet Packages
+*.nupkg
+*.pup
+*.p7m
+*.p7b
+*.pfx
+*.p12
+*.pem
+*.cer
+
+# Exclude npm-debug.log files
+npm-debug.log*
+
+# Exclude the Visual Studio Code workspace file
+.vscode/
+
+# Exclude user secrets files
+*.user.secrets.json
+
+# Exclude the obj and bin folders
+**/bin/
+**/obj/
+
+# macOS
+.DS_Store
+
+# Exclude dotnet local tool manifest file
+.toolstargetmanifest.json
+
+# Exclude file used by the IDE for application settings
+*.vscode/
+*.vscodeignore
+.vs/
+
+# Include the .NET Core artifacts folder
+bin/
+obj/
+
+.DS_Store
