@@ -1,0 +1,21 @@
+19.10.2019 21:16:44 CLIMaincoreInstaller------>Main : CLIMaincoreInstaller, 2.0.3.0: Could not load file or assembly 'Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.
+__________________________
+
+19.10.2019 21:18:09:4816 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0: Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Unknown database 'integracontext'
+__________________________
+
+19.10.2019 21:33:27:9883 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0: Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Unknown database 'integracontext'
+__________________________
+
+19.10.2019 21:37:13 CLIMaincoreInstaller------>CreateApplicationPool : CLIMaincoreInstaller, 2.0.3.0: INFO: Application Pool already exists
+__________________________
+
+19.10.2019 21:37:14 CLIMaincoreInstaller------>IsapiRestriction : CLIMaincoreInstaller, 2.0.3.0: Filename: 
+Error: Cannot add duplicate collection entry of type 'add' with unique key attribute 'path' set to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_isapi.dll'
+
+
+__________________________
+
+19.10.2019 21:38:49:5001 WsInterfaceClient------>WsClient : WsInterfaceClient, 1.0.0.0: There was no endpoint listening at http://localhost:8082/WWebservice that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.
+__________________________
+

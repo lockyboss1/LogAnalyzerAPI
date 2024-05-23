@@ -1,0 +1,21 @@
+02.05.2020 21:00:39:9312 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0: Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Reading from the stream has failed.
+__________________________
+
+02.05.2020 21:01:13:8335 AmadeoServ------>OnStart : GeneralUtils, 1.0.2.0: Object reference not set to an instance of an object. MySQL Server not Started... retry 2/3 
+__________________________
+
+02.05.2020 21:01:55:5336 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Starting listening on port: 5001
+__________________________
+
+02.05.2020 21:01:56:9085 AmadeoServ------>OnStart : GeneralUtils, 1.0.2.0: Service Properly started v1.9.9.0
+__________________________
+
+02.05.2020 21:22:50:2948 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Stopping all communications...
+__________________________
+
+02.05.2020 21:22:50:3133 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: All communications STOPPED!
+__________________________
+
+02.05.2020 21:22:50:3143 AmadeoServ------>OnStop : GeneralUtils, 1.0.2.0: Object reference not set to an instance of an object.
+__________________________
+

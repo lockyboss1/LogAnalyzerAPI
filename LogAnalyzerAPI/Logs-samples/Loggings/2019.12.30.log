@@ -1,0 +1,42 @@
+30.12.2019 12:23:43:3556 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0: Unable to connect to any of the specified MySQL hosts.
+__________________________
+
+30.12.2019 12:23:45:4626 DataAccessLayer------>ExecuteNonQuery : GeneralUtils, 1.0.2.0: Unable to connect to any of the specified MySQL hosts.
+__________________________
+
+30.12.2019 12:25:43:6806 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Starting listening on port: 5001
+__________________________
+
+30.12.2019 12:25:47:0241 AmadeoServ------>OnStart : GeneralUtils, 1.0.2.0: Service Properly started v1.9.9.0
+__________________________
+
+30.12.2019 14:41:43:4720 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0: Unable to connect to any of the specified MySQL hosts.
+__________________________
+
+30.12.2019 14:41:45:1185 DataAccessLayer------>ExecuteNonQuery : GeneralUtils, 1.0.2.0: Unable to connect to any of the specified MySQL hosts.
+__________________________
+
+30.12.2019 14:41:46:1494 DataAccessLayer------>ExecuteNonQuery : GeneralUtils, 1.0.2.0: Unable to connect to any of the specified MySQL hosts.
+__________________________
+
+30.12.2019 14:43:45:4115 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Starting listening on port: 5001
+__________________________
+
+30.12.2019 14:43:46:7395 AmadeoServ------>OnStart : GeneralUtils, 1.0.2.0: Service Properly started v1.9.9.0
+__________________________
+
+30.12.2019 15:24:28:3001 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0: Unable to connect to any of the specified MySQL hosts.
+__________________________
+
+30.12.2019 15:24:29:3313 DataAccessLayer------>ExecuteNonQuery : GeneralUtils, 1.0.2.0: Unable to connect to any of the specified MySQL hosts.
+__________________________
+
+30.12.2019 15:24:30:3605 DataAccessLayer------>ExecuteNonQuery : GeneralUtils, 1.0.2.0: Unable to connect to any of the specified MySQL hosts.
+__________________________
+
+30.12.2019 15:26:24:4838 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Starting listening on port: 5001
+__________________________
+
+30.12.2019 15:26:26:5462 AmadeoServ------>OnStart : GeneralUtils, 1.0.2.0: Service Properly started v1.9.9.0
+__________________________
+

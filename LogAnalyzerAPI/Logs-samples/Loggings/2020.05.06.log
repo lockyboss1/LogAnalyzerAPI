@@ -1,0 +1,279 @@
+06.05.2020 09:03:06:6109 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: 42a261ca-d97a-42b2-b13a-6a6cb9650307, STATUS: Open 
+__________________________
+
+06.05.2020 09:03:07:0421 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+06.05.2020 09:03:07:0441 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+06.05.2020 10:11:24:0353 DataAccessLayer------>ExecuteNonQuery : GeneralUtils, 1.0.2.0: Fatal error encountered during command execution.
+__________________________
+
+06.05.2020 10:11:31:6701 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: 42a261ca-d97a-42b2-b13a-6a6cb9650307, STATUS: Open 
+__________________________
+
+06.05.2020 10:11:31:9045 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0:    at System.Data.Entity.Core.EntityClient.EntityConnection.<OpenAsync>d__8.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Core.Objects.ObjectContext.<EnsureConnectionAsync>d__9.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Core.Objects.ObjectContext.<ExecuteInTransactionAsync>d__3d`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Utilities.TaskExtensions.CultureAwaiter`1.GetResult()
+   at System.Data.Entity.Core.Objects.ObjectContext.<ExecuteStoreQueryReliablyAsync>d__6c`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Utilities.TaskExtensions.CultureAwaiter`1.GetResult()
+   at System.Data.Entity.Internal.LazyAsyncEnumerator`1.<FirstMoveNextAsync>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.<ForEachAsync>d__5`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at DALRepository.Context.IntegraContext.6x6C2GYGa"(|wjKpzhqPaU4i\&`1.MoveNext()
+__________________________
+
+06.05.2020 10:11:31:9201 WirelessManagement------>PushApEvents : GeneralUtils, 1.0.2.0: Save System Audit failed DEVICE_OFFLINE -> 192.168.1.127
+__________________________
+
+
+------>06.05.2020 10:11:31:9201 WirelessManagement------>PushApEvents : GeneralUtils, 1.0.2.0: One or more errors occurred.
+__________________________
+
+
+------>06.05.2020 10:11:33:9825 DataAccessLayer------>ExecuteNonQuery : GeneralUtils, 1.0.2.0: Unable to connect to any of the specified MySQL hosts.
+__________________________
+
+06.05.2020 10:11:38:0803 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0:    at System.Data.Entity.Core.EntityClient.EntityConnection.<OpenAsync>d__8.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Core.Objects.ObjectContext.<EnsureConnectionAsync>d__9.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Core.Objects.ObjectContext.<ExecuteInTransactionAsync>d__3d`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Utilities.TaskExtensions.CultureAwaiter`1.GetResult()
+   at System.Data.Entity.Core.Objects.ObjectContext.<ExecuteStoreQueryReliablyAsync>d__6c`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Utilities.TaskExtensions.CultureAwaiter`1.GetResult()
+   at System.Data.Entity.Internal.LazyAsyncEnumerator`1.<FirstMoveNextAsync>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.<ForEachAsync>d__5`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at DALRepository.Context.IntegraContext.6x6C2GYGa"(|wjKpzhqPaU4i\&`1.MoveNext()
+__________________________
+
+06.05.2020 10:11:38:0803 WirelessManagement------>PushApEvents : GeneralUtils, 1.0.2.0: Save System Audit failed DEVICE_OFFLINE -> 192.168.1.127
+__________________________
+
+
+------>06.05.2020 10:11:38:0803 WirelessManagement------>PushApEvents : GeneralUtils, 1.0.2.0: One or more errors occurred.
+__________________________
+
+
+------>06.05.2020 10:11:40:1426 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0: Unable to connect to any of the specified MySQL hosts.
+__________________________
+
+06.05.2020 10:11:42:1894 DataAccessLayer------>ExecuteNonQuery : GeneralUtils, 1.0.2.0: Unable to connect to any of the specified MySQL hosts.
+__________________________
+
+06.05.2020 10:11:44:2518 DataAccessLayer------>ExecuteNonQuery : GeneralUtils, 1.0.2.0: Unable to connect to any of the specified MySQL hosts.
+__________________________
+
+06.05.2020 10:14:44:3832 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Starting listening on port: 5001
+__________________________
+
+06.05.2020 10:14:45:1956 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 1
+__________________________
+
+06.05.2020 10:14:45:2425 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 2
+__________________________
+
+06.05.2020 10:14:45:2425 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 3
+__________________________
+
+06.05.2020 10:14:45:2425 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 4
+__________________________
+
+06.05.2020 10:14:45:2894 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 1
+__________________________
+
+06.05.2020 10:14:45:2894 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 2
+__________________________
+
+06.05.2020 10:14:45:2894 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 2
+__________________________
+
+06.05.2020 10:14:45:2894 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 1
+__________________________
+
+06.05.2020 10:14:45:2894 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 1
+__________________________
+
+06.05.2020 10:14:45:2894 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 1
+__________________________
+
+06.05.2020 10:14:45:2894 AmadeoServ------>OnStart : GeneralUtils, 1.0.2.0: Service Properly started v2.3.0.1
+__________________________
+
+06.05.2020 10:15:06:3972 AmBus------>PollAmBus : GeneralUtils, 1.0.2.0: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.41.25.25:2050
+__________________________
+
+06.05.2020 10:15:06:3972 AmBus------>PollAmBus : GeneralUtils, 1.0.2.0: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.40.219.13:2050
+__________________________
+
+06.05.2020 10:15:06:3972 AmBus------>PollAmBus : GeneralUtils, 1.0.2.0: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.40.219.14:2050
+__________________________
+
+06.05.2020 10:15:06:4129 AmBus------>PollAmBus : GeneralUtils, 1.0.2.0: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.40.219.15:2050
+__________________________
+
+06.05.2020 10:15:06:4129 AmBus------>PollAmBus : GeneralUtils, 1.0.2.0: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.40.216.30:2050
+__________________________
+
+06.05.2020 10:17:18:6549 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/6/2020 10:17:18 AM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -50
+Message ID : 60
+Data RCv   :  0xC8010E790503110A0605E407E3010101000E
+PACKAGE RECEIVED  :  5/6/2020 10:17:18 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :186.7692412 s, Milliseconds: 186769.2412 ms
+
+__________________________
+
+06.05.2020 10:17:18:9830 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 60 - lockid-> 100 ) :  0x200180A1
+Executing Time: 0.3280998 seconds. - 328.0998ms.
+
+__________________________
+
+06.05.2020 10:17:19:1705 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 5/6/2020 10:17:19 AM->Access point Message acknowledgement: True
+Access Point physical address  : 405095105
+Ilock Name/address : 22.101
+Message ID : 60
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+06.05.2020 10:17:19:5142 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 6553600 -> 22.101
+Lock Date : 06.05.2020 10:17:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.17188739776611 v
+Executing Time: 0.8593329 seconds. - 859.3329ms.
+
+__________________________
+
+06.05.2020 11:36:15:0361 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/6/2020 11:36:15 AM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -49
+Message ID : 61
+Data RCv   :  0xC8600E0000182542C102300005000200298C
+PACKAGE RECEIVED  :  5/6/2020 11:36:15 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :4736.3812048 s, Milliseconds: 4736381.2048 ms
+
+__________________________
+
+06.05.2020 11:36:15:2532 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 61 - lockid-> 100 ) :  0x206080C0
+Executing Time: 0.2171301 seconds. - 217.1301ms.
+
+__________________________
+
+06.05.2020 11:36:15:2811 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Device Comm Diagnostic Data) --------------------------------------
+Device : 6553600 -> 22.101
+Access Point : 405095105 , 
+Ap Channel  : 2 , 
+Signal Strenght : -48 , 
+Comm Retries : 5 , 
+Comm Errors : 2 , 
+Total Comm  : 41 , 
+Preffered  : IS_BROADCAST_FIRST , 
+Executing Time: 0.2450235 seconds. - 245.0235ms.
+
+__________________________
+
+06.05.2020 11:36:15:7008 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 5/6/2020 11:36:15 AM->Access point Message acknowledgement: True
+Access Point physical address  : 405095105
+Ilock Name/address : 22.101
+Message ID : 61
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+06.05.2020 22:46:14:4728 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/6/2020 10:46:14 PM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -43
+Message ID : 62
+Data RCv   :  0xC8010E7905032E160605E407E30100010025
+PACKAGE RECEIVED  :  5/6/2020 10:46:14 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :40199.4347361 s, Milliseconds: 40199434.7361 ms
+
+__________________________
+
+06.05.2020 22:46:14:7617 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 62 - lockid-> 100 ) :  0x200180A1
+Executing Time: 0.2909273 seconds. - 290.9273ms.
+
+__________________________
+
+06.05.2020 22:46:14:7867 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 6553600 -> 22.101
+Lock Date : 06.05.2020 22:46:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.17188739776611 v
+Executing Time: 0.3149176 seconds. - 314.9176ms.
+
+__________________________
+
+06.05.2020 22:46:15:1263 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 5/6/2020 10:46:15 PM->Access point Message acknowledgement: True
+Access Point physical address  : 405095105
+Ilock Name/address : 22.101
+Message ID : 62
+Error code : 0
+Server side ID : False
+
+
+__________________________
+

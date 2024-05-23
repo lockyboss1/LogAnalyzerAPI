@@ -1,0 +1,94 @@
+12.05.2020 10:40:44:6402 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0:    at System.Data.Entity.Core.EntityClient.EntityConnection.<OpenAsync>d__8.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Core.Objects.ObjectContext.<EnsureConnectionAsync>d__9.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Core.Objects.ObjectContext.<ExecuteInTransactionAsync>d__3d`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Utilities.TaskExtensions.CultureAwaiter`1.GetResult()
+   at System.Data.Entity.Core.Objects.ObjectContext.<ExecuteStoreQueryReliablyAsync>d__6c`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Utilities.TaskExtensions.CultureAwaiter`1.GetResult()
+   at System.Data.Entity.Internal.LazyAsyncEnumerator`1.<FirstMoveNextAsync>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.<ForEachAsync>d__5`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at DALRepository.Context.IntegraContext.6x6C2GYGa"(|wjKpzhqPaU4i\&`1.MoveNext()
+__________________________
+
+12.05.2020 10:40:46:0487 WirelessManagement------>PushApEvents : GeneralUtils, 1.0.2.0: Save System Audit failed DEVICE_OFFLINE -> 192.168.1.127
+__________________________
+
+
+------>12.05.2020 10:40:46:0487 WirelessManagement------>PushApEvents : GeneralUtils, 1.0.2.0: One or more errors occurred.
+__________________________
+
+
+------>12.05.2020 15:00:36:7775 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0: Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Reading from the stream has failed.
+__________________________
+
+12.05.2020 15:01:07:4160 AmadeoServ------>OnStart : GeneralUtils, 1.0.2.0: Object reference not set to an instance of an object. MySQL Server not Started... retry 2/3 
+__________________________
+
+12.05.2020 15:02:31:3951 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Starting listening on port: 5001
+__________________________
+
+12.05.2020 15:02:33:7544 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 1
+__________________________
+
+12.05.2020 15:02:33:7544 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 2
+__________________________
+
+12.05.2020 15:02:33:7544 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 3
+__________________________
+
+12.05.2020 15:02:33:7544 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 4
+__________________________
+
+12.05.2020 15:02:33:8481 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 1
+__________________________
+
+12.05.2020 15:02:33:8481 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 2
+__________________________
+
+12.05.2020 15:02:33:8481 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 2
+__________________________
+
+12.05.2020 15:02:33:8481 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 1
+__________________________
+
+12.05.2020 15:02:33:8481 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 1
+__________________________
+
+12.05.2020 15:02:33:8481 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 1
+__________________________
+
+12.05.2020 15:02:33:8481 AmadeoServ------>OnStart : GeneralUtils, 1.0.2.0: Service Properly started v2.3.0.1
+__________________________
+
+12.05.2020 15:02:55:6903 AmBus------>PollAmBus : GeneralUtils, 1.0.2.0: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.40.219.13:2050
+__________________________
+
+12.05.2020 15:02:55:6903 AmBus------>PollAmBus : GeneralUtils, 1.0.2.0: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.40.219.15:2050
+__________________________
+
+12.05.2020 15:02:55:6903 AmBus------>PollAmBus : GeneralUtils, 1.0.2.0: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.40.219.14:2050
+__________________________
+
+12.05.2020 15:02:55:6903 AmBus------>PollAmBus : GeneralUtils, 1.0.2.0: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.40.216.30:2050
+__________________________
+
+12.05.2020 15:02:55:6903 AmBus------>PollAmBus : GeneralUtils, 1.0.2.0: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.41.25.25:2050
+__________________________
+

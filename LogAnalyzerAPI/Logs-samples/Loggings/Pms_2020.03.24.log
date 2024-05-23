@@ -1,0 +1,45 @@
+24.03.2020 10:34:21:7047 PmsManager------>ReadSocket : GeneralUtils, 1.0.2.0: Thread was being aborted.
+__________________________
+
+
+------>24.03.2020 18:25:49:2027 PmsManager------>WaitClient : GeneralUtils, 1.0.2.0: A blocking operation was interrupted by a call to WSACancelBlockingCall
+__________________________
+
+
+------>24.03.2020 18:25:49:2037 PmsManager------>WaitClient : GeneralUtils, 1.0.2.0: A blocking operation was interrupted by a call to WSACancelBlockingCall
+__________________________
+
+
+------>24.03.2020 18:25:49:2157 PmsManager------>WaitClient : GeneralUtils, 1.0.2.0: A blocking operation was interrupted by a call to WSACancelBlockingCall
+__________________________
+
+
+------>24.03.2020 18:25:49:2407 PmsManager------>WaitClient : GeneralUtils, 1.0.2.0: A blocking operation was interrupted by a call to WSACancelBlockingCall
+__________________________
+
+
+------>24.03.2020 18:25:49:2567 PmsManager------>WaitClient : GeneralUtils, 1.0.2.0: A blocking operation was interrupted by a call to WSACancelBlockingCall
+__________________________
+
+
+------>24.03.2020 18:25:49:2637 PmsManager------>WaitClient : GeneralUtils, 1.0.2.0: A blocking operation was interrupted by a call to WSACancelBlockingCall
+__________________________
+
+
+------>24.03.2020 18:25:49:2776 PmsManager------>WaitClient : GeneralUtils, 1.0.2.0: A blocking operation was interrupted by a call to WSACancelBlockingCall
+__________________________
+
+
+------>24.03.2020 18:25:49:2937 PmsManager------>WaitClient : GeneralUtils, 1.0.2.0: A blocking operation was interrupted by a call to WSACancelBlockingCall
+__________________________
+
+
+------>24.03.2020 18:25:49:3677 PmsManager------>WaitClient : GeneralUtils, 1.0.2.0: A blocking operation was interrupted by a call to WSACancelBlockingCall
+__________________________
+
+
+------>24.03.2020 18:25:49:5008 PmsManager------>WaitClient : GeneralUtils, 1.0.2.0: Thread was being aborted.
+__________________________
+
+
+------>

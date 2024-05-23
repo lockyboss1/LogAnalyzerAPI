@@ -1,0 +1,574 @@
+05.05.2020 01:49:54:9493 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Starting listening on port: 5001
+__________________________
+
+05.05.2020 01:49:55:3141 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 1
+__________________________
+
+05.05.2020 01:49:55:3150 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 2
+__________________________
+
+05.05.2020 01:49:55:3150 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 3
+__________________________
+
+05.05.2020 01:49:55:3160 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 4
+__________________________
+
+05.05.2020 01:49:55:3170 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 1
+__________________________
+
+05.05.2020 01:49:55:3170 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 2
+__________________________
+
+05.05.2020 01:49:55:3170 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 2
+__________________________
+
+05.05.2020 01:49:55:3170 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 1
+__________________________
+
+05.05.2020 01:49:55:3180 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 1
+__________________________
+
+05.05.2020 01:49:55:3180 AmBusesManagement------>RunAllBuses : GeneralUtils, 1.0.2.0: Device - 1
+__________________________
+
+05.05.2020 01:49:55:3200 AmadeoServ------>OnStart : GeneralUtils, 1.0.2.0: Service Properly started v2.3.0.1
+__________________________
+
+05.05.2020 01:50:16:3365 AmBus------>PollAmBus : GeneralUtils, 1.0.2.0: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.40.219.14:2050
+__________________________
+
+05.05.2020 01:50:16:3375 AmBus------>PollAmBus : GeneralUtils, 1.0.2.0: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.40.216.30:2050
+__________________________
+
+05.05.2020 01:50:16:3386 AmBus------>PollAmBus : GeneralUtils, 1.0.2.0: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.40.219.15:2050
+__________________________
+
+05.05.2020 01:50:16:3395 AmBus------>PollAmBus : GeneralUtils, 1.0.2.0: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.41.25.25:2050
+__________________________
+
+05.05.2020 01:50:16:3405 AmBus------>PollAmBus : GeneralUtils, 1.0.2.0: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.40.219.13:2050
+__________________________
+
+05.05.2020 01:51:00:1243 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: c08c9e3d-8b1c-49a8-9129-3b16d233eafc, STATUS: Open 
+__________________________
+
+05.05.2020 01:51:47:8619 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/5/2020 1:51:47 AM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -61
+Message ID : 43
+Data RCv   :  0xC8543B018D2E6AF100000000000040782B7EAE8A9F2CAA099B9ACE3228C35E0C75F4CAF122E831E41577C3F5EEF98E01D27C95887CB67DE9FEB0509047B86B
+PACKAGE RECEIVED  :  5/5/2020 1:51:47 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :114.5345161 s, Milliseconds: 114534.5161 ms
+
+__________________________
+
+05.05.2020 01:51:48:2300 WirelessManagement------>HandleValidationRevalidation : GeneralUtils, 1.0.2.0: 
+ Serial -> 4050267789
+__________________________
+
+05.05.2020 01:51:48:4251 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/5/2020 1:51:48 AM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -60
+Message ID : 299
+Data RCv   :  0xC8543B018D2E6AF100000000000040782B7EAE8A9F2CAA099B9ACE3228C35E0C75F4CAF122E831E41577C3F5EEF98E01D27C95887CB67DE9FEB0509047B86B
+PACKAGE RECEIVED  :  5/5/2020 1:51:48 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :0.562158 s, Milliseconds: 562.158 ms
+
+__________________________
+
+05.05.2020 01:51:48:5282 WirelessManagement------>HandleValidationRevalidation : GeneralUtils, 1.0.2.0: 
+ Serial -> 4050267789
+__________________________
+
+05.05.2020 01:51:48:5502 WirelessManagement------>IsOnDoorReChecking : GeneralUtils, 1.0.2.0: The context cannot be used while the model is being created. This exception may be thrown if the context is used inside the OnModelCreating method or if the same context instance is accessed by multiple threads concurrently. Note that instance members of DbContext and related classes are not guaranteed to be thread safe.
+__________________________
+
+05.05.2020 01:51:48:6451 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  (  Revalidation req/res data - (MSGID) 299 -> 100 ) :  0x48540110C7
+Executing Time: 0.2200472 seconds. - 220.0472ms.
+
+__________________________
+
+05.05.2020 01:51:49:0995 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/5/2020 1:51:49 AM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -56
+Message ID : 44
+Data RCv   :  0x205480F4
+PACKAGE RECEIVED  :  5/5/2020 1:51:49 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :0.6734657 s, Milliseconds: 673.4657 ms
+
+__________________________
+
+05.05.2020 01:51:49:1185 TaskManagement------>ADataProtoAckNackPckReceived : GeneralUtils, 1.0.2.0:  INFO -> EH received, all task deleted!, LOCK ID: 100,  EH Cmd : REVALIDATION_CMD, EH State : ACK
+__________________________
+
+05.05.2020 01:51:49:1295 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 5/5/2020 1:51:49 AM->Access point Message acknowledgement: True
+Access Point physical address  : 405095105
+Ilock Name/address : 22.101
+Message ID : 299
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+05.05.2020 01:51:49:3864 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  (  Revalidation req/res data - (MSGID) 43 -> 100 ) :  0x48540110C7
+Executing Time: 0.2868345 seconds. - 286.8345ms.
+
+__________________________
+
+05.05.2020 01:51:56:2805 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/5/2020 1:51:56 AM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -50
+Message ID : 45
+Data RCv   :  0xC8510ECB42C114A1CC018D2E6AF100004989
+PACKAGE RECEIVED  :  5/5/2020 1:51:56 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :7.1800012 s, Milliseconds: 7180.0012 ms
+
+__________________________
+
+05.05.2020 01:51:56:2896 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 45 - lockid-> 100 ) :  0x205180F1
+Executing Time: 0.0090062 seconds. - 9.0062ms.
+
+__________________________
+
+05.05.2020 01:51:56:6533 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Audit Data) --------------------------------------
+Operationa Code : 1
+Audit Date : 2020.05.05 01:51
+Lock Id : 6553600 -> 22.101
+User Id : 12665547
+Serial Number Part : 4050267789
+Executing Time: 0.3717832 seconds. - 371.7832ms.
+
+__________________________
+
+05.05.2020 01:51:56:9391 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 5/5/2020 1:51:56 AM->Access point Message acknowledgement: True
+Access Point physical address  : 405095105
+Ilock Name/address : 22.101
+Message ID : 45
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+05.05.2020 01:51:58:4462 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 5/5/2020 1:51:58 AM->Access point Message acknowledgement: False
+Access Point physical address  : 405095105
+Ilock Name/address : 22.101
+Message ID : 43
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+05.05.2020 01:52:03:1028 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: c08c9e3d-8b1c-49a8-9129-3b16d233eafc, STATUS: Open 
+__________________________
+
+05.05.2020 01:52:05:7777 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: 47af73ef-193d-4b61-b6d0-de643e562145, STATUS: Open 
+__________________________
+
+05.05.2020 01:52:06:0256 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+05.05.2020 01:52:06:0566 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+05.05.2020 01:52:09:2283 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/5/2020 1:52:09 AM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -44
+Message ID : 46
+Data RCv   :  0xC8543B018D2E6AF100000000000040782B7EAE8A9F2CAA099B9ACE3228C35E0C75F4CAF122E831E41577C3F5EEF98E01D27C95887CB67DE9FEB0509047B86B
+PACKAGE RECEIVED  :  5/5/2020 1:52:09 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :12.9477374 s, Milliseconds: 12947.7374 ms
+
+__________________________
+
+05.05.2020 01:52:09:2733 WirelessManagement------>HandleValidationRevalidation : GeneralUtils, 1.0.2.0: 
+ Serial -> 4050267789
+__________________________
+
+05.05.2020 01:52:09:5365 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  (  Revalidation req/res data - (MSGID) 46 -> 100 ) :  0x48540110C7
+Executing Time: 0.3082549 seconds. - 308.2549ms.
+
+__________________________
+
+05.05.2020 01:52:09:8839 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 5/5/2020 1:52:09 AM->Access point Message acknowledgement: True
+Access Point physical address  : 405095105
+Ilock Name/address : 22.101
+Message ID : 46
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+05.05.2020 01:52:09:9039 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/5/2020 1:52:09 AM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -44
+Message ID : 47
+Data RCv   :  0x205480F4
+PACKAGE RECEIVED  :  5/5/2020 1:52:09 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :0.6756101 s, Milliseconds: 675.6101 ms
+
+__________________________
+
+05.05.2020 01:52:09:9079 TaskManagement------>ADataProtoAckNackPckReceived : GeneralUtils, 1.0.2.0:  INFO -> EH received, all task deleted!, LOCK ID: 100,  EH Cmd : REVALIDATION_CMD, EH State : ACK
+__________________________
+
+05.05.2020 01:52:17:0855 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/5/2020 1:52:17 AM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -54
+Message ID : 48
+Data RCv   :  0xC8510ECB42C114A1CC018D2E6AF100004989
+PACKAGE RECEIVED  :  5/5/2020 1:52:17 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :7.1815876 s, Milliseconds: 7181.5876 ms
+
+__________________________
+
+05.05.2020 01:52:17:0925 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 48 - lockid-> 100 ) :  0x205180F1
+Executing Time: 0.0069961 seconds. - 6.9961ms.
+
+__________________________
+
+05.05.2020 01:52:17:2444 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Audit Data) --------------------------------------
+Operationa Code : 1
+Audit Date : 2020.05.05 01:51
+Lock Id : 6553600 -> 22.101
+User Id : 12665547
+Serial Number Part : 4050267789
+Executing Time: 0.1589584 seconds. - 158.9584ms.
+
+__________________________
+
+05.05.2020 01:52:17:7412 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 5/5/2020 1:52:17 AM->Access point Message acknowledgement: True
+Access Point physical address  : 405095105
+Ilock Name/address : 22.101
+Message ID : 48
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+05.05.2020 01:52:36:4667 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/5/2020 1:52:36 AM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -45
+Message ID : 49
+Data RCv   :  0xC8543B018D2E6AF100000000000040782B7EAE8A9F2CAA099B9ACE3228C35E0C75F4CAF122E831E41577C3F5EEF98E01D27C95887CB67DE9FEB0509047B86B
+PACKAGE RECEIVED  :  5/5/2020 1:52:36 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :19.3812001 s, Milliseconds: 19381.2001 ms
+
+__________________________
+
+05.05.2020 01:52:36:5090 WirelessManagement------>HandleValidationRevalidation : GeneralUtils, 1.0.2.0: 
+ Serial -> 4050267789
+__________________________
+
+05.05.2020 01:52:36:8199 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  (  Revalidation req/res data - (MSGID) 49 -> 100 ) :  0x48540110C7
+Executing Time: 0.3531752 seconds. - 353.1752ms.
+
+__________________________
+
+05.05.2020 01:52:37:1221 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 5/5/2020 1:52:37 AM->Access point Message acknowledgement: True
+Access Point physical address  : 405095105
+Ilock Name/address : 22.101
+Message ID : 49
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+05.05.2020 01:52:37:1422 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/5/2020 1:52:37 AM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -41
+Message ID : 50
+Data RCv   :  0x205480F4
+PACKAGE RECEIVED  :  5/5/2020 1:52:37 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :0.6754692 s, Milliseconds: 675.4692 ms
+
+__________________________
+
+05.05.2020 01:52:37:1452 TaskManagement------>ADataProtoAckNackPckReceived : GeneralUtils, 1.0.2.0:  INFO -> EH received, all task deleted!, LOCK ID: 100,  EH Cmd : REVALIDATION_CMD, EH State : ACK
+__________________________
+
+05.05.2020 01:52:44:4169 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/5/2020 1:52:44 AM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -54
+Message ID : 307
+Data RCv   :  0xC8510ECB42C114A1D0018D2E6AF1000049E2
+PACKAGE RECEIVED  :  5/5/2020 1:52:44 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :7.2737446 s, Milliseconds: 7273.7446 ms
+
+__________________________
+
+05.05.2020 01:52:44:4229 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 307 - lockid-> 100 ) :  0x205180F1
+Executing Time: 0.0059972 seconds. - 5.9972ms.
+
+__________________________
+
+05.05.2020 01:52:44:5887 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Audit Data) --------------------------------------
+Operationa Code : 1
+Audit Date : 2020.05.05 01:52
+Lock Id : 6553600 -> 22.101
+User Id : 12665547
+Serial Number Part : 4050267789
+Executing Time: 0.171805 seconds. - 171.805ms.
+
+__________________________
+
+05.05.2020 01:52:45:0727 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 5/5/2020 1:52:45 AM->Access point Message acknowledgement: True
+Access Point physical address  : 405095105
+Ilock Name/address : 22.101
+Message ID : 307
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+05.05.2020 01:52:54:1463 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/5/2020 1:52:54 AM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -47
+Message ID : 52
+Data RCv   :  0xC8543B018D2E6AF100000000000040782B7EAE8A9F2CAA099B9ACE3228C35E0C75F4CAF122E831E41577C3F5EEF98E01D27C95887CB67DE9FEB0509047B86B
+PACKAGE RECEIVED  :  5/5/2020 1:52:54 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :9.7294067 s, Milliseconds: 9729.4067 ms
+
+__________________________
+
+05.05.2020 01:52:54:1933 WirelessManagement------>HandleValidationRevalidation : GeneralUtils, 1.0.2.0: 
+ Serial -> 4050267789
+__________________________
+
+05.05.2020 01:52:54:4541 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  (  Revalidation req/res data - (MSGID) 52 -> 100 ) :  0x48540110C7
+Executing Time: 0.3078244 seconds. - 307.8244ms.
+
+__________________________
+
+05.05.2020 01:52:54:8026 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 5/5/2020 1:52:54 AM->Access point Message acknowledgement: True
+Access Point physical address  : 405095105
+Ilock Name/address : 22.101
+Message ID : 52
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+05.05.2020 01:52:54:8225 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/5/2020 1:52:54 AM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -44
+Message ID : 53
+Data RCv   :  0x205480F4
+PACKAGE RECEIVED  :  5/5/2020 1:52:54 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :0.6762406 s, Milliseconds: 676.2406 ms
+
+__________________________
+
+05.05.2020 01:52:54:8256 TaskManagement------>ADataProtoAckNackPckReceived : GeneralUtils, 1.0.2.0:  INFO -> EH received, all task deleted!, LOCK ID: 100,  EH Cmd : REVALIDATION_CMD, EH State : ACK
+__________________________
+
+05.05.2020 01:53:02:0051 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/5/2020 1:53:02 AM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -51
+Message ID : 54
+Data RCv   :  0xC8510ECB42C114A1D0018D2E6AF1000049E2
+PACKAGE RECEIVED  :  5/5/2020 1:53:02 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :7.1815393 s, Milliseconds: 7181.5393 ms
+
+__________________________
+
+05.05.2020 01:53:02:0331 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 54 - lockid-> 100 ) :  0x205180F1
+Executing Time: 0.0289838 seconds. - 28.9838ms.
+
+__________________________
+
+05.05.2020 01:53:02:2789 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Audit Data) --------------------------------------
+Operationa Code : 1
+Audit Date : 2020.05.05 01:52
+Lock Id : 6553600 -> 22.101
+User Id : 12665547
+Serial Number Part : 4050267789
+Executing Time: 0.2738418 seconds. - 273.8418ms.
+
+__________________________
+
+05.05.2020 01:53:02:6643 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 5/5/2020 1:53:02 AM->Access point Message acknowledgement: True
+Access Point physical address  : 405095105
+Ilock Name/address : 22.101
+Message ID : 54
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+05.05.2020 01:53:17:9411 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/5/2020 1:53:17 AM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -56
+Message ID : 55
+Data RCv   :  0xC8543B018D2E6AF100000000000040782B7EAE8A9F2CAA099B9ACE3228C35E0C75F4CAF122E831E41577C3F5EEF98E01D27C95887CB67DE9FEB0509047B86B
+PACKAGE RECEIVED  :  5/5/2020 1:53:17 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :15.9350625 s, Milliseconds: 15935.0625 ms
+
+__________________________
+
+05.05.2020 01:53:18:0191 WirelessManagement------>HandleValidationRevalidation : GeneralUtils, 1.0.2.0: 
+ Serial -> 4050267789
+__________________________
+
+05.05.2020 01:53:18:2270 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  (  Revalidation req/res data - (MSGID) 55 -> 100 ) :  0x48540110C7
+Executing Time: 0.2868451 seconds. - 286.8451ms.
+
+__________________________
+
+05.05.2020 01:53:18:6013 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 5/5/2020 1:53:18 AM->Access point Message acknowledgement: True
+Access Point physical address  : 405095105
+Ilock Name/address : 22.101
+Message ID : 55
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+05.05.2020 01:53:18:6172 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/5/2020 1:53:18 AM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -37
+Message ID : 56
+Data RCv   :  0x205480F4
+PACKAGE RECEIVED  :  5/5/2020 1:53:18 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :0.6751414 s, Milliseconds: 675.1414 ms
+
+__________________________
+
+05.05.2020 01:53:18:6233 TaskManagement------>ADataProtoAckNackPckReceived : GeneralUtils, 1.0.2.0:  INFO -> EH received, all task deleted!, LOCK ID: 100,  EH Cmd : REVALIDATION_CMD, EH State : ACK
+__________________________
+
+05.05.2020 01:53:25:8004 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/5/2020 1:53:25 AM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -56
+Message ID : 57
+Data RCv   :  0xC8510ECB42C114A1D4018D2E6AF10000493E
+PACKAGE RECEIVED  :  5/5/2020 1:53:25 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :7.1821569 s, Milliseconds: 7182.1569 ms
+
+__________________________
+
+05.05.2020 01:53:25:8224 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 57 - lockid-> 100 ) :  0x205180F1
+Executing Time: 0.0229881 seconds. - 22.9881ms.
+
+__________________________
+
+05.05.2020 01:53:26:0032 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Audit Data) --------------------------------------
+Operationa Code : 1
+Audit Date : 2020.05.05 01:53
+Lock Id : 6553600 -> 22.101
+User Id : 12665547
+Serial Number Part : 4050267789
+Executing Time: 0.2038483 seconds. - 203.8483ms.
+
+__________________________
+
+05.05.2020 01:53:26:4544 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 5/5/2020 1:53:26 AM->Access point Message acknowledgement: True
+Access Point physical address  : 405095105
+Ilock Name/address : 22.101
+Message ID : 57
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+05.05.2020 04:30:02:6568 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: 47af73ef-193d-4b61-b6d0-de643e562145, STATUS: Open 
+__________________________
+
+05.05.2020 04:30:44:8216 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: ba1b491a-ff35-4235-9b45-880b5747b4f2, STATUS: Open 
+__________________________
+
+05.05.2020 04:30:44:9227 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+05.05.2020 04:30:44:9237 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+05.05.2020 07:08:28:2367 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: ba1b491a-ff35-4235-9b45-880b5747b4f2, STATUS: Open 
+__________________________
+
+05.05.2020 07:09:10:4463 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: 3ab0cc50-768e-4cb9-96b5-4a3b1df06dd5, STATUS: Open 
+__________________________
+
+05.05.2020 07:09:10:6001 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+05.05.2020 07:09:10:6015 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+05.05.2020 10:51:20:3254 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: 3ab0cc50-768e-4cb9-96b5-4a3b1df06dd5, STATUS: Open 
+__________________________
+

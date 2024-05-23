@@ -1,0 +1,15 @@
+21.02.2020 16:37:06:5297 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0: Reading from the stream has failed.
+__________________________
+
+21.02.2020 16:37:17:3293 DataAccessLayer------>ExecuteNonQuery : GeneralUtils, 1.0.2.0: Unable to connect to any of the specified MySQL hosts.
+__________________________
+
+21.02.2020 16:37:18:3560 DataAccessLayer------>ExecuteNonQuery : GeneralUtils, 1.0.2.0: Unable to connect to any of the specified MySQL hosts.
+__________________________
+
+21.02.2020 16:40:22:0905 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Starting listening on port: 5001
+__________________________
+
+21.02.2020 16:40:23:3404 AmadeoServ------>OnStart : GeneralUtils, 1.0.2.0: Service Properly started v1.9.9.0
+__________________________
+

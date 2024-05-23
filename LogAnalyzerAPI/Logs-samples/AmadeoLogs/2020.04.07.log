@@ -1,0 +1,21 @@
+07.04.2020 06:50:09:9794 DoorController------>Int_GetDoors : RestWebApi, 2.0.0.0: The model backing the 'IntegraContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+__________________________
+
+07.04.2020 06:50:18:4650 DoorController------>GetDoors : RestWebApi, 2.0.0.0: The model backing the 'IntegraContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+__________________________
+
+07.04.2020 06:50:25:1030 DoorController------>GetDoors : RestWebApi, 2.0.0.0: The model backing the 'IntegraContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+__________________________
+
+07.04.2020 06:50:28:9253 DoorController------>GetDoors : RestWebApi, 2.0.0.0: The model backing the 'IntegraContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+__________________________
+
+07.04.2020 06:55:18:7189 DoorController------>GetDoors : RestWebApi, 2.0.0.0: The model backing the 'IntegraContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+__________________________
+
+07.04.2020 06:55:22:2356 DoorController------>GetDoors : RestWebApi, 2.0.0.0: The model backing the 'IntegraContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+__________________________
+
+07.04.2020 08:31:41:7166 DoorController------>GetDoors : RestWebApi, 2.0.0.0: The model backing the 'IntegraContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+__________________________
+

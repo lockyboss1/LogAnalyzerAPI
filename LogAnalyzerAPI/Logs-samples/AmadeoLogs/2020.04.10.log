@@ -1,0 +1,49 @@
+10.04.2020 11:41:51:0601 AppCLientPermissionProxy------>GetData : ServiceRestClient, 1.0.1.0: Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[ServiceRestClient.Metadatas.AppCLientPermission]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+__________________________
+
+
+------>10.04.2020 11:45:00:8742 AppCLientPermissionProxy------>GetData : ServiceRestClient, 1.0.1.0: Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[ServiceRestClient.Metadatas.AppCLientPermission]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+__________________________
+
+
+------>10.04.2020 11:48:14:2835 AppCLientPermissionProxy------>GetData : ServiceRestClient, 1.0.1.0: Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[ServiceRestClient.Metadatas.AppCLientPermission]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+__________________________
+
+
+------>10.04.2020 12:07:48:5539 AppCLientPermissionProxy------>GetData : ServiceRestClient, 1.0.1.0: Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[ServiceRestClient.Metadatas.AppCLientPermission]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+__________________________
+
+
+------>10.04.2020 12:26:09:7843 AppCLientPermissionProxy------>GetData : ServiceRestClient, 1.0.1.0: Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[ServiceRestClient.Metadatas.AppCLientPermission]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+__________________________
+
+
+------>10.04.2020 12:58:09:7278 AppCLientPermissionProxy------>GetData : ServiceRestClient, 1.0.1.0: Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[ServiceRestClient.Metadatas.AppCLientPermission]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+__________________________
+
+
+------>10.04.2020 13:22:26:6062 AppCLientPermissionProxy------>GetData : ServiceRestClient, 1.0.1.0: Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[ServiceRestClient.Metadatas.AppCLientPermission]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+__________________________
+
+
+------>10.04.2020 14:42:44:4810 AppCLientPermissionProxy------>GetData : ServiceRestClient, 1.0.1.0: Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[ServiceRestClient.Metadatas.AppCLientPermission]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+__________________________
+
+
+------>

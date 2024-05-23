@@ -1,0 +1,9 @@
+03.03.2020 11:28:31:2449 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Stopping all communications...
+__________________________
+
+03.03.2020 11:28:31:5574 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: All communications STOPPED!
+__________________________
+
+03.03.2020 11:28:31:5594 AmadeoServ------>OnStop : GeneralUtils, 1.0.2.0: Object reference not set to an instance of an object.
+__________________________
+

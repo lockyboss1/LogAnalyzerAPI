@@ -1,0 +1,225 @@
+05.04.2020 00:04:44:2885 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>05.04.2020 01:04:44:2851 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>05.04.2020 02:04:44:2896 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>05.04.2020 03:04:44:2866 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>05.04.2020 04:04:44:2901 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>05.04.2020 05:04:44:2874 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>05.04.2020 06:04:44:2871 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>05.04.2020 06:39:13:4380 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/5/2020 6:39:13 AM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -40
+Message ID : 212
+Data RCv   :  0xC8010E79050327060504E407E701000100AF
+PACKAGE RECEIVED  :  4/5/2020 6:39:13 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :28743.9749597 s, Milliseconds: 28743974.9597 ms
+
+__________________________
+
+05.04.2020 06:39:13:7742 TaskManagement------>ADataProtoReq_ResPckReceived : GeneralUtils, 1.0.2.0:  INFO -> Configuration not available for this lock, LOCK ID:13107200
+__________________________
+
+05.04.2020 06:39:13:7792 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( configuration not available ) :  0x20002000
+Executing Time: 0.3411038 seconds. - 341.1038ms.
+
+__________________________
+
+05.04.2020 06:39:14:1208 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/5/2020 6:39:14 AM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 13107200
+Message ID : 212
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+05.04.2020 06:39:14:1503 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/5/2020 6:39:14 AM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -40
+Message ID : 468
+Data RCv   :  0xC8010E79050327060504E407E701000100AF
+PACKAGE RECEIVED  :  4/5/2020 6:39:14 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :0.6742851 s, Milliseconds: 674.2851 ms
+
+__________________________
+
+05.04.2020 06:39:14:2083 TaskManagement------>ADataProtoReq_ResPckReceived : GeneralUtils, 1.0.2.0:  INFO -> Configuration not available for this lock, LOCK ID:13107200
+__________________________
+
+05.04.2020 06:39:14:2183 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( configuration not available ) :  0x20002000
+Executing Time: 0.0799366 seconds. - 79.9366ms.
+
+__________________________
+
+05.04.2020 06:39:14:8022 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/5/2020 6:39:14 AM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 13107200
+Message ID : 468
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+05.04.2020 07:04:44:2880 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>05.04.2020 08:04:44:2892 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>05.04.2020 09:04:45:3580 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>05.04.2020 10:04:45:3686 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>05.04.2020 11:04:45:3673 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>05.04.2020 11:08:14:2859 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/5/2020 11:08:14 AM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -36
+Message ID : 213
+Data RCv   :  0xC8600E000019693F41002A00090009001613
+PACKAGE RECEIVED  :  4/5/2020 11:08:14 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :16140.1235512 s, Milliseconds: 16140123.5512 ms
+
+__________________________
+
+05.04.2020 11:08:14:4478 TaskManagement------>ADataProtoReq_ResPckReceived : GeneralUtils, 1.0.2.0:  INFO -> Configuration not available for this lock, LOCK ID:13107200
+__________________________
+
+05.04.2020 11:08:14:4528 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( configuration not available ) :  0x20002000
+Executing Time: 0.1669074 seconds. - 166.9074ms.
+
+__________________________
+
+05.04.2020 11:08:14:9466 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/5/2020 11:08:14 AM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 13107200
+Message ID : 213
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+05.04.2020 11:08:14:9576 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/5/2020 11:08:14 AM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -36
+Message ID : 469
+Data RCv   :  0xC8600E000019693F410026000A00090017B8
+PACKAGE RECEIVED  :  4/5/2020 11:08:14 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :0.6567776 s, Milliseconds: 656.7776 ms
+
+__________________________
+
+05.04.2020 11:08:14:9896 TaskManagement------>ADataProtoReq_ResPckReceived : GeneralUtils, 1.0.2.0:  INFO -> Configuration not available for this lock, LOCK ID:13107200
+__________________________
+
+05.04.2020 11:08:14:9946 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( configuration not available ) :  0x20002000
+Executing Time: 0.040972 seconds. - 40.972ms.
+
+__________________________
+
+05.04.2020 11:08:15:6176 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/5/2020 11:08:15 AM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 13107200
+Message ID : 469
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+05.04.2020 12:04:45:3688 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>05.04.2020 13:04:45:3694 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>05.04.2020 14:04:45:3697 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>05.04.2020 15:04:45:3707 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>05.04.2020 16:04:45:3700 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>05.04.2020 17:04:45:3700 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>05.04.2020 18:04:45:6689 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>05.04.2020 19:04:45:3848 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>05.04.2020 20:04:45:3885 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>05.04.2020 21:04:45:3866 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>05.04.2020 22:04:45:3869 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>05.04.2020 23:04:45:3909 ServiceScheduler------>GetDbBackupDate : GeneralUtils, 1.0.2.0: Input string was not in a correct format.
+__________________________
+
+
+------>

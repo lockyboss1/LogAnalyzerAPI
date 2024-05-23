@@ -1,0 +1,170 @@
+06.04.2020 05:39:13:6835 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/6/2020 5:39:13 AM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -49
+Message ID : 214
+Data RCv   :  0xC8010E79050327050604E407E701000100C5
+PACKAGE RECEIVED  :  4/6/2020 5:39:13 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :66658.7148257 s, Milliseconds: 66658714.8257 ms
+
+__________________________
+
+06.04.2020 05:39:13:9761 TaskManagement------>ADataProtoReq_ResPckReceived : GeneralUtils, 1.0.2.0:  INFO -> Configuration not available for this lock, LOCK ID:13107200
+__________________________
+
+06.04.2020 05:39:14:0002 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( configuration not available ) :  0x20002000
+Executing Time: 0.3276624 seconds. - 327.6624ms.
+
+__________________________
+
+06.04.2020 05:39:14:2621 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/6/2020 5:39:14 AM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -49
+Message ID : 470
+Data RCv   :  0xC8010E79050327050604E407E701000100C5
+PACKAGE RECEIVED  :  4/6/2020 5:39:14 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :0.5626148 s, Milliseconds: 562.6148 ms
+
+__________________________
+
+06.04.2020 05:39:14:3120 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/6/2020 5:39:14 AM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 13107200
+Message ID : 214
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+06.04.2020 05:39:14:4241 TaskManagement------>ADataProtoReq_ResPckReceived : GeneralUtils, 1.0.2.0:  INFO -> Configuration not available for this lock, LOCK ID:13107200
+__________________________
+
+06.04.2020 05:39:14:4291 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( configuration not available ) :  0x20002000
+Executing Time: 0.1670335 seconds. - 167.0335ms.
+
+__________________________
+
+06.04.2020 05:39:14:9028 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/6/2020 5:39:14 AM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 13107200
+Message ID : 470
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+06.04.2020 08:05:05:3157 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0:    at System.Data.Entity.Core.EntityClient.EntityConnection.<OpenAsync>d__8.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Core.Objects.ObjectContext.<EnsureConnectionAsync>d__9.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Core.Objects.ObjectContext.<ExecuteInTransactionAsync>d__3d`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Utilities.TaskExtensions.CultureAwaiter`1.GetResult()
+   at System.Data.Entity.Core.Objects.ObjectContext.<ExecuteStoreQueryReliablyAsync>d__6c`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Utilities.TaskExtensions.CultureAwaiter`1.GetResult()
+   at System.Data.Entity.Internal.LazyAsyncEnumerator`1.<FirstMoveNextAsync>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.<ForEachAsync>d__5`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at DALRepository.Context.IntegraContext.B}3p>3\.II\\"rsfj3 `=Thn!A$`1.MoveNext()
+__________________________
+
+06.04.2020 08:05:06:0615 ServiceScheduler------>RunCheckInOuts : GeneralUtils, 1.0.2.0: Object reference not set to an instance of an object.
+__________________________
+
+
+------>06.04.2020 11:08:14:3402 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/6/2020 11:08:14 AM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -55
+Message ID : 215
+Data RCv   :  0xC8600E000019693F410036000B000B001A63
+PACKAGE RECEIVED  :  4/6/2020 11:08:14 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :19740.070133 s, Milliseconds: 19740070.133 ms
+
+__________________________
+
+06.04.2020 11:08:14:5353 TaskManagement------>ADataProtoReq_ResPckReceived : GeneralUtils, 1.0.2.0:  INFO -> Configuration not available for this lock, LOCK ID:13107200
+__________________________
+
+06.04.2020 11:08:14:5412 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( configuration not available ) :  0x20002000
+Executing Time: 0.2020437 seconds. - 202.0437ms.
+
+__________________________
+
+06.04.2020 11:08:15:0258 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/6/2020 11:08:15 AM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -55
+Message ID : 471
+Data RCv   :  0xC8600E000019693F410039000C000B001B06
+PACKAGE RECEIVED  :  4/6/2020 11:08:14 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :0.6716586 s, Milliseconds: 671.6586 ms
+
+__________________________
+
+06.04.2020 11:08:15:0519 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/6/2020 11:08:15 AM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 13107200
+Message ID : 215
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+06.04.2020 11:08:15:2198 TaskManagement------>ADataProtoReq_ResPckReceived : GeneralUtils, 1.0.2.0:  INFO -> Configuration not available for this lock, LOCK ID:13107200
+__________________________
+
+06.04.2020 11:08:15:2258 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( configuration not available ) :  0x20002000
+Executing Time: 0.2000094 seconds. - 200.0094ms.
+
+__________________________
+
+06.04.2020 11:08:15:7019 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/6/2020 11:08:15 AM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 13107200
+Message ID : 471
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+06.04.2020 15:19:46:2341 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Stopping all communications...
+__________________________
+
+06.04.2020 15:19:46:4444 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: All communications STOPPED!
+__________________________
+
+06.04.2020 15:19:46:4844 AmadeoServ------>OnStop : GeneralUtils, 1.0.2.0: Object reference not set to an instance of an object.
+__________________________
+

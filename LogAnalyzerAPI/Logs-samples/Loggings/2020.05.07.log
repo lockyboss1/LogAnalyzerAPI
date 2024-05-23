@@ -1,0 +1,245 @@
+07.05.2020 11:04:17:4923 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/7/2020 11:04:17 AM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -40
+Message ID : 63
+Data RCv   :  0xC8010E790503040B0705E407E20101010023
+PACKAGE RECEIVED  :  5/7/2020 11:04:17 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :44283.0065019 s, Milliseconds: 44283006.5019 ms
+
+__________________________
+
+07.05.2020 11:04:17:7202 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 63 - lockid-> 100 ) :  0x200180A1
+Executing Time: 0.2288463 seconds. - 228.8463ms.
+
+__________________________
+
+07.05.2020 11:04:17:7402 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 6553600 -> 22.101
+Lock Date : 07.05.2020 11:04:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.17188739776611 v
+Executing Time: 0.245823 seconds. - 245.823ms.
+
+__________________________
+
+07.05.2020 11:04:18:1453 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 5/7/2020 11:04:18 AM->Access point Message acknowledgement: True
+Access Point physical address  : 405095105
+Ilock Name/address : 22.101
+Message ID : 63
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+07.05.2020 11:04:20:0462 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/7/2020 11:04:20 AM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -42
+Message ID : 64
+Data RCv   :  0xC8010E790503040B0705E407E20101010023
+PACKAGE RECEIVED  :  5/7/2020 11:04:20 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :2.5519358 s, Milliseconds: 2551.9358 ms
+
+__________________________
+
+07.05.2020 11:04:20:0672 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 64 - lockid-> 100 ) :  0x200180A1
+Executing Time: 0.0219656 seconds. - 21.9656ms.
+
+__________________________
+
+07.05.2020 11:04:20:0952 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 6553600 -> 22.101
+Lock Date : 07.05.2020 11:04:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.17188739776611 v
+Executing Time: 0.0499373 seconds. - 49.9373ms.
+
+__________________________
+
+07.05.2020 11:04:20:7008 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 5/7/2020 11:04:20 AM->Access point Message acknowledgement: True
+Access Point physical address  : 405095105
+Ilock Name/address : 22.101
+Message ID : 64
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+07.05.2020 11:04:22:6039 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/7/2020 11:04:22 AM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -42
+Message ID : 65
+Data RCv   :  0xC8010E790503040B0705E407E20101010023
+PACKAGE RECEIVED  :  5/7/2020 11:04:22 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :2.5566648 s, Milliseconds: 2556.6648 ms
+
+__________________________
+
+07.05.2020 11:04:22:6159 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 65 - lockid-> 100 ) :  0x200180A1
+Executing Time: 0.0130047 seconds. - 13.0047ms.
+
+__________________________
+
+07.05.2020 11:04:22:6369 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 6553600 -> 22.101
+Lock Date : 07.05.2020 11:04:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.17188739776611 v
+Executing Time: 0.0329707 seconds. - 32.9707ms.
+
+__________________________
+
+07.05.2020 11:04:23:2640 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 5/7/2020 11:04:23 AM->Access point Message acknowledgement: True
+Access Point physical address  : 405095105
+Ilock Name/address : 22.101
+Message ID : 65
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+07.05.2020 11:04:25:1555 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/7/2020 11:04:25 AM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -38
+Message ID : 66
+Data RCv   :  0xC8010E790503040B0705E407E20101010023
+PACKAGE RECEIVED  :  5/7/2020 11:04:25 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :2.5515876 s, Milliseconds: 2551.5876 ms
+
+__________________________
+
+07.05.2020 11:04:25:1705 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 66 - lockid-> 100 ) :  0x200180A1
+Executing Time: 0.0139926 seconds. - 14.9665ms.
+
+__________________________
+
+07.05.2020 11:04:25:1925 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 6553600 -> 22.101
+Lock Date : 07.05.2020 11:04:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.17188739776611 v
+Executing Time: 0.0369528 seconds. - 36.9528ms.
+
+__________________________
+
+07.05.2020 11:04:25:8120 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 5/7/2020 11:04:25 AM->Access point Message acknowledgement: True
+Access Point physical address  : 405095105
+Ilock Name/address : 22.101
+Message ID : 66
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+07.05.2020 11:36:13:9067 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+5/7/2020 11:36:13 AM->
+Access Point physical address  : 405095105
+I-lock Physical address : 6553600 ->ID1: 100
+Transaction retry count : 0
+Signal Strength : -47
+Message ID : 67
+Data RCv   :  0xC8600E0000182542C10228000000000005DF
+PACKAGE RECEIVED  :  5/7/2020 11:36:13 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :1908.7491965 s, Milliseconds: 1908749.1965 ms
+
+__________________________
+
+07.05.2020 11:36:14:0487 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 67 - lockid-> 100 ) :  0x206080C0
+Executing Time: 0.1429511 seconds. - 142.9511ms.
+
+__________________________
+
+07.05.2020 11:36:14:0656 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Device Comm Diagnostic Data) --------------------------------------
+Device : 6553600 -> 22.101
+Access Point : 405095105 , 
+Ap Channel  : 2 , 
+Signal Strenght : -40 , 
+Comm Retries : 0 , 
+Comm Errors : 0 , 
+Total Comm  : 5 , 
+Preffered  : IS_BROADCAST_FIRST , 
+Executing Time: 0.1599418 seconds. - 159.9418ms.
+
+__________________________
+
+07.05.2020 11:36:14:5701 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 5/7/2020 11:36:14 AM->Access point Message acknowledgement: True
+Access Point physical address  : 405095105
+Ilock Name/address : 22.101
+Message ID : 67
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+07.05.2020 15:15:21:3772 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0:    at System.Data.Entity.Core.EntityClient.EntityConnection.<OpenAsync>d__8.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Core.Objects.ObjectContext.<EnsureConnectionAsync>d__9.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Core.Objects.ObjectContext.<ExecuteInTransactionAsync>d__3d`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Utilities.TaskExtensions.CultureAwaiter`1.GetResult()
+   at System.Data.Entity.Core.Objects.ObjectContext.<ExecuteStoreQueryReliablyAsync>d__6c`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Utilities.TaskExtensions.CultureAwaiter`1.GetResult()
+   at System.Data.Entity.Internal.LazyAsyncEnumerator`1.<FirstMoveNextAsync>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.<ForEachAsync>d__5`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at DALRepository.Context.IntegraContext.6x6C2GYGa"(|wjKpzhqPaU4i\&`1.MoveNext()
+__________________________
+
+07.05.2020 15:15:21:8788 ServiceScheduler------>RunCheckInOuts : GeneralUtils, 1.0.2.0: Object reference not set to an instance of an object.
+__________________________
+
+
+------>

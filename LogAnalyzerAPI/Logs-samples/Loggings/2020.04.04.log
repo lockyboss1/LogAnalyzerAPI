@@ -1,0 +1,417 @@
+04.04.2020 04:05:16:8573 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0:    at System.Data.Entity.Core.EntityClient.EntityConnection.<OpenAsync>d__8.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Core.Objects.ObjectContext.<EnsureConnectionAsync>d__9.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Core.Objects.ObjectContext.<ExecuteInTransactionAsync>d__3d`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Utilities.TaskExtensions.CultureAwaiter`1.GetResult()
+   at System.Data.Entity.Core.Objects.ObjectContext.<ExecuteStoreQueryReliablyAsync>d__6c`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Utilities.TaskExtensions.CultureAwaiter`1.GetResult()
+   at System.Data.Entity.Internal.LazyAsyncEnumerator`1.<FirstMoveNextAsync>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.<ForEachAsync>d__5`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at DALRepository.Context.IntegraContext.B}3p>3\.II\\"rsfj3 `=Thn!A$`1.MoveNext()
+__________________________
+
+04.04.2020 04:05:17:8750 ServiceScheduler------>RunCheckInOuts : GeneralUtils, 1.0.2.0: Object reference not set to an instance of an object.
+__________________________
+
+
+------>04.04.2020 07:39:14:7319 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/4/2020 7:39:14 AM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -38
+Message ID : 206
+Data RCv   :  0xC8010E79050327070404E407E6010001008C
+PACKAGE RECEIVED  :  4/4/2020 7:39:14 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :50838.7843337 s, Milliseconds: 50838784.3337 ms
+
+__________________________
+
+04.04.2020 07:39:15:1519 TaskManagement------>ADataProtoReq_ResPckReceived : GeneralUtils, 1.0.2.0:  INFO -> Configuration not available for this lock, LOCK ID:13107200
+__________________________
+
+04.04.2020 07:39:15:1589 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( configuration not available ) :  0x20002000
+Executing Time: 0.4934985 seconds. - 493.4985ms.
+
+__________________________
+
+04.04.2020 07:39:15:2533 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/4/2020 7:39:15 AM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -38
+Message ID : 462
+Data RCv   :  0xC8010E79050327070404E407E6010001008C
+PACKAGE RECEIVED  :  4/4/2020 7:39:15 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :0.4270155 s, Milliseconds: 427.0155 ms
+
+__________________________
+
+04.04.2020 07:39:15:3063 TaskManagement------>ADataProtoReq_ResPckReceived : GeneralUtils, 1.0.2.0:  INFO -> Configuration not available for this lock, LOCK ID:13107200
+__________________________
+
+04.04.2020 07:39:15:3143 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( configuration not available ) :  0x20002000
+Executing Time: 0.1443688 seconds. - 144.3688ms.
+
+__________________________
+
+04.04.2020 07:39:16:0093 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/4/2020 7:39:16 AM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 13107200
+Message ID : 462
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+04.04.2020 07:39:24:3724 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/4/2020 7:39:24 AM->Access point Message acknowledgement: False
+Access Point physical address  : 426327873
+Ilock Name/address : 13107200
+Message ID : 206
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+04.04.2020 11:08:14:3482 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/4/2020 11:08:14 AM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -37
+Message ID : 207
+Data RCv   :  0xC8600E000019693F41002800030003000A7C
+PACKAGE RECEIVED  :  4/4/2020 11:08:14 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :12539.0788612 s, Milliseconds: 12539078.8612 ms
+
+__________________________
+
+04.04.2020 11:08:14:8390 TaskManagement------>ADataProtoReq_ResPckReceived : GeneralUtils, 1.0.2.0:  INFO -> Configuration not available for this lock, LOCK ID:13107200
+__________________________
+
+04.04.2020 11:08:14:8450 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( configuration not available ) :  0x20002000
+Executing Time: 0.4978317 seconds. - 497.8317ms.
+
+__________________________
+
+04.04.2020 11:08:15:0473 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/4/2020 11:08:15 AM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -37
+Message ID : 463
+Data RCv   :  0xC8600E000019693F41002700040003000B19
+PACKAGE RECEIVED  :  4/4/2020 11:08:14 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :0.6860873 s, Milliseconds: 686.0873 ms
+
+__________________________
+
+04.04.2020 11:08:15:0852 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/4/2020 11:08:15 AM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 13107200
+Message ID : 207
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+04.04.2020 11:08:15:3295 TaskManagement------>ADataProtoReq_ResPckReceived : GeneralUtils, 1.0.2.0:  INFO -> Configuration not available for this lock, LOCK ID:13107200
+__________________________
+
+04.04.2020 11:08:15:3395 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( configuration not available ) :  0x20002000
+Executing Time: 0.2932497 seconds. - 293.2497ms.
+
+__________________________
+
+04.04.2020 11:08:15:7296 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/4/2020 11:08:15 AM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 13107200
+Message ID : 463
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+04.04.2020 21:47:47:0966 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/4/2020 9:47:47 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -34
+Message ID : 208
+Data RCv   :  0xC8010E7905032F150404E407E6010101009D
+PACKAGE RECEIVED  :  4/4/2020 9:47:47 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :38372.0413753 s, Milliseconds: 38372041.3753 ms
+
+__________________________
+
+04.04.2020 21:47:47:4055 TaskManagement------>ADataProtoReq_ResPckReceived : GeneralUtils, 1.0.2.0:  INFO -> Configuration not available for this lock, LOCK ID:13107200
+__________________________
+
+04.04.2020 21:47:47:4117 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( configuration not available ) :  0x20002000
+Executing Time: 0.3160633 seconds. - 316.0633ms.
+
+__________________________
+
+04.04.2020 21:47:47:7659 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/4/2020 9:47:47 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -34
+Message ID : 464
+Data RCv   :  0xC8010E7905032F150404E407E6010101009D
+PACKAGE RECEIVED  :  4/4/2020 9:47:47 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :0.6553361 s, Milliseconds: 655.3361 ms
+
+__________________________
+
+04.04.2020 21:47:47:7879 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/4/2020 9:47:47 PM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 13107200
+Message ID : 208
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+04.04.2020 21:47:47:9590 TaskManagement------>ADataProtoReq_ResPckReceived : GeneralUtils, 1.0.2.0:  INFO -> Configuration not available for this lock, LOCK ID:13107200
+__________________________
+
+04.04.2020 21:47:47:9650 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( configuration not available ) :  0x20002000
+Executing Time: 0.1990735 seconds. - 199.0735ms.
+
+__________________________
+
+04.04.2020 21:47:48:4587 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/4/2020 9:47:48 PM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 13107200
+Message ID : 464
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+04.04.2020 21:51:33:4276 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/4/2020 9:51:33 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -38
+Message ID : 209
+Data RCv   :  0xC8010E79050333150404E407E601010100D2
+PACKAGE RECEIVED  :  4/4/2020 9:51:33 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :225.6546648 s, Milliseconds: 225654.6648 ms
+
+__________________________
+
+04.04.2020 21:51:33:4665 TaskManagement------>ADataProtoReq_ResPckReceived : GeneralUtils, 1.0.2.0:  INFO -> Configuration not available for this lock, LOCK ID:13107200
+__________________________
+
+04.04.2020 21:51:33:4745 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( configuration not available ) :  0x20002000
+Executing Time: 0.0469639 seconds. - 47.9641ms.
+
+__________________________
+
+04.04.2020 21:51:34:0702 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/4/2020 9:51:34 PM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 13107200
+Message ID : 209
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+04.04.2020 21:51:34:0862 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/4/2020 9:51:34 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -38
+Message ID : 465
+Data RCv   :  0xC8010E79050333150404E407E601010100D2
+PACKAGE RECEIVED  :  4/4/2020 9:51:34 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :0.6476222 s, Milliseconds: 647.6222 ms
+
+__________________________
+
+04.04.2020 21:51:34:1142 TaskManagement------>ADataProtoReq_ResPckReceived : GeneralUtils, 1.0.2.0:  INFO -> Configuration not available for this lock, LOCK ID:13107200
+__________________________
+
+04.04.2020 21:51:34:1202 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( configuration not available ) :  0x20002000
+Executing Time: 0.0349933 seconds. - 34.9933ms.
+
+__________________________
+
+04.04.2020 21:51:34:7539 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/4/2020 9:51:34 PM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 13107200
+Message ID : 465
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+04.04.2020 22:19:53:4272 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/4/2020 10:19:53 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -37
+Message ID : 210
+Data RCv   :  0xC8010E79050313160404E407E501010100EF
+PACKAGE RECEIVED  :  4/4/2020 10:19:53 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :1699.3340118 s, Milliseconds: 1699334.0118 ms
+
+__________________________
+
+04.04.2020 22:19:53:6590 TaskManagement------>ADataProtoReq_ResPckReceived : GeneralUtils, 1.0.2.0:  INFO -> Configuration not available for this lock, LOCK ID:13107200
+__________________________
+
+04.04.2020 22:19:53:6660 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( configuration not available ) :  0x20002000
+Executing Time: 0.2398291 seconds. - 239.8291ms.
+
+__________________________
+
+04.04.2020 22:19:54:0816 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/4/2020 10:19:54 PM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 13107200
+Message ID : 210
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+04.04.2020 22:19:54:0896 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/4/2020 10:19:54 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -37
+Message ID : 466
+Data RCv   :  0xC8010E79050313160404E407E501010100EF
+PACKAGE RECEIVED  :  4/4/2020 10:19:54 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :0.6384145 s, Milliseconds: 639.4139 ms
+
+__________________________
+
+04.04.2020 22:19:54:1266 TaskManagement------>ADataProtoReq_ResPckReceived : GeneralUtils, 1.0.2.0:  INFO -> Configuration not available for this lock, LOCK ID:13107200
+__________________________
+
+04.04.2020 22:19:54:1346 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( configuration not available ) :  0x20002000
+Executing Time: 0.0469909 seconds. - 46.9909ms.
+
+__________________________
+
+04.04.2020 22:19:54:7415 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/4/2020 10:19:54 PM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 13107200
+Message ID : 466
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+04.04.2020 22:40:08:7683 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/4/2020 10:40:08 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -36
+Message ID : 211
+Data RCv   :  0xC8010E79050327160404E407E601010100DB
+PACKAGE RECEIVED  :  4/4/2020 10:40:08 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :1214.6716788 s, Milliseconds: 1214671.6788 ms
+
+__________________________
+
+04.04.2020 22:40:09:0828 TaskManagement------>ADataProtoReq_ResPckReceived : GeneralUtils, 1.0.2.0:  INFO -> Configuration not available for this lock, LOCK ID:13107200
+__________________________
+
+04.04.2020 22:40:09:0888 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( configuration not available ) :  0x20002000
+Executing Time: 0.3205446 seconds. - 320.5446ms.
+
+__________________________
+
+04.04.2020 22:40:09:4431 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/4/2020 10:40:09 PM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 13107200
+Message ID : 211
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+04.04.2020 22:40:09:4531 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/4/2020 10:40:09 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -36
+Message ID : 467
+Data RCv   :  0xC8010E79050327160404E407E601010100DB
+PACKAGE RECEIVED  :  4/4/2020 10:40:09 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :0.6698463 s, Milliseconds: 669.8463 ms
+
+__________________________
+
+04.04.2020 22:40:09:4861 TaskManagement------>ADataProtoReq_ResPckReceived : GeneralUtils, 1.0.2.0:  INFO -> Configuration not available for this lock, LOCK ID:13107200
+__________________________
+
+04.04.2020 22:40:09:4921 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( configuration not available ) :  0x20002000
+Executing Time: 0.0449684 seconds. - 44.9684ms.
+
+__________________________
+
+04.04.2020 22:40:10:1175 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/4/2020 10:40:10 PM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 13107200
+Message ID : 467
+Error code : 0
+Server side ID : False
+
+
+__________________________
+

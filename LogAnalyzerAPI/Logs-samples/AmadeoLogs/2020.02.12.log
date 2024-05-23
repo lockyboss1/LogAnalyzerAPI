@@ -1,0 +1,3 @@
+12.02.2020 03:53:04:8368 WsInterfaceClient------>WsClient : WsInterfaceClient, 1.0.0.0: There was no endpoint listening at http://localhost:8082/WWebservice that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.
+__________________________
+

@@ -1,0 +1,288 @@
+18.02.2020 13:03:34:6886 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: 76b2bfb2-a3e8-48b9-966d-5b525b508cce, STATUS: Open 
+__________________________
+
+18.02.2020 13:03:39:1549 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+18.02.2020 13:03:39:1609 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+18.02.2020 15:08:52:8294 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: 76b2bfb2-a3e8-48b9-966d-5b525b508cce, STATUS: Open 
+__________________________
+
+18.02.2020 15:10:11:9734 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: 541d80d4-6624-4822-a38e-6508a5aa3c24, STATUS: Open 
+__________________________
+
+18.02.2020 15:10:12:1126 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+18.02.2020 15:10:12:1431 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+18.02.2020 16:36:06:2997 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: 541d80d4-6624-4822-a38e-6508a5aa3c24, STATUS: Open 
+__________________________
+
+18.02.2020 16:36:32:4767 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: c402ca14-b54b-40f0-87d7-ad5f3164de3c, STATUS: Open 
+__________________________
+
+18.02.2020 16:36:32:5614 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+18.02.2020 16:36:32:5614 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+18.02.2020 16:52:01:2860 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: c402ca14-b54b-40f0-87d7-ad5f3164de3c, STATUS: Open 
+__________________________
+
+18.02.2020 20:21:55:7443 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: 56c20e58-836a-43d7-afdd-1b7f48638fae, STATUS: Open 
+__________________________
+
+18.02.2020 20:21:57:2201 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+18.02.2020 20:21:57:2311 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+18.02.2020 20:26:16:4238 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: 56c20e58-836a-43d7-afdd-1b7f48638fae, STATUS: Open 
+__________________________
+
+18.02.2020 20:30:34:7591 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: 78102431-6f0c-4e0e-8112-fd063c9632d2, STATUS: Open 
+__________________________
+
+18.02.2020 20:30:35:0477 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+18.02.2020 20:30:35:0487 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+18.02.2020 20:30:35:1037 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+18.02.2020 20:30:35:1087 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+18.02.2020 20:31:35:4187 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: 78102431-6f0c-4e0e-8112-fd063c9632d2, STATUS: Open 
+__________________________
+
+18.02.2020 20:32:44:0980 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: 5fad4bcc-4441-4252-b95d-fad249694fbe, STATUS: Open 
+__________________________
+
+18.02.2020 20:32:44:2050 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+18.02.2020 20:32:44:2070 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+18.02.2020 20:34:38:0808 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: ef8a7dc2-b098-41c7-8977-83ae22477024, STATUS: Open 
+__________________________
+
+18.02.2020 20:34:39:2889 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+18.02.2020 20:34:39:3009 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+18.02.2020 20:34:58:4098 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: 5fad4bcc-4441-4252-b95d-fad249694fbe, STATUS: Open 
+__________________________
+
+18.02.2020 20:40:38:1099 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: ef8a7dc2-b098-41c7-8977-83ae22477024, STATUS: Open 
+__________________________
+
+18.02.2020 20:48:26:3347 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: 7cd3ddab-739f-4caa-9fc9-6b7d18f29d5c, STATUS: Open 
+__________________________
+
+18.02.2020 20:48:27:6166 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+18.02.2020 20:48:27:6306 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+18.02.2020 21:05:31:5300 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: 7cd3ddab-739f-4caa-9fc9-6b7d18f29d5c, STATUS: Open 
+__________________________
+
+18.02.2020 21:06:27:5204 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: 834ae3cb-6b96-411d-9f8e-d435b1c554e0, STATUS: Open 
+__________________________
+
+18.02.2020 21:06:33:1562 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+18.02.2020 21:06:33:1572 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+18.02.2020 21:13:05:7064 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: 834ae3cb-6b96-411d-9f8e-d435b1c554e0, STATUS: Open 
+__________________________
+
+18.02.2020 21:13:25:4713 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: 740343c5-9635-4aff-a4fc-eaa7f7ecf3f2, STATUS: Open 
+__________________________
+
+18.02.2020 21:13:26:8334 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+18.02.2020 21:13:26:8394 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+18.02.2020 21:21:15:2011 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: 79717955-8e38-42b6-a23b-ef7e9eb2c733, STATUS: Open 
+__________________________
+
+18.02.2020 21:21:16:7218 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+18.02.2020 21:21:16:7448 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+18.02.2020 21:21:36:2233 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: 740343c5-9635-4aff-a4fc-eaa7f7ecf3f2, STATUS: Open 
+__________________________
+
+18.02.2020 21:39:17:2434 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: 79717955-8e38-42b6-a23b-ef7e9eb2c733, STATUS: Open 
+__________________________
+
+18.02.2020 21:46:02:7105 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: 6998b11c-79a0-418f-a079-e9c96292484e, STATUS: Open 
+__________________________
+
+18.02.2020 21:46:04:0950 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+18.02.2020 21:46:04:0970 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+18.02.2020 21:48:44:6416 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: 6998b11c-79a0-418f-a079-e9c96292484e, STATUS: Open 
+__________________________
+
+18.02.2020 21:51:17:8515 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: 59793e66-f7cc-41b5-b66b-f4c71c9c7b2e, STATUS: Open 
+__________________________
+
+18.02.2020 21:52:47:9011 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: 59793e66-f7cc-41b5-b66b-f4c71c9c7b2e, STATUS: Open 
+__________________________
+
+18.02.2020 21:53:46:3480 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: 5760a136-9f5f-40ba-af74-74419f53c80e, STATUS: Open 
+__________________________
+
+18.02.2020 21:53:46:4404 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+18.02.2020 21:53:46:4644 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+18.02.2020 22:02:03:3780 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: 5760a136-9f5f-40ba-af74-74419f53c80e, STATUS: Open 
+__________________________
+
+18.02.2020 22:02:44:5475 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: 9f1360ca-6cb6-4529-b1f2-43d1ea475b5f, STATUS: Open 
+__________________________
+
+18.02.2020 22:02:45:9444 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+18.02.2020 22:02:45:9534 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+18.02.2020 23:11:25:3637 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: 9f1360ca-6cb6-4529-b1f2-43d1ea475b5f, STATUS: Open 
+__________________________
+
+18.02.2020 23:11:40:1523 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: da2bf6ea-a1cf-4db5-b66c-bad09027e793, STATUS: Open 
+__________________________
+
+18.02.2020 23:11:40:2692 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+18.02.2020 23:11:40:2702 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+18.02.2020 23:13:57:1126 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: da2bf6ea-a1cf-4db5-b66c-bad09027e793, STATUS: Open 
+__________________________
+
+18.02.2020 23:13:58:9962 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: a2aa241c-ba46-41cb-9b58-3298422e6167, STATUS: Open 
+__________________________
+
+18.02.2020 23:14:00:4433 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+18.02.2020 23:14:00:4573 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+18.02.2020 23:15:38:0036 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Stopping all communications...
+__________________________
+
+18.02.2020 23:15:38:0186 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: All communications STOPPED!
+__________________________
+
+18.02.2020 23:15:38:0196 AmadeoServ------>OnStop : GeneralUtils, 1.0.2.0: Object reference not set to an instance of an object.
+__________________________
+
+18.02.2020 23:15:45:1534 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Starting listening on port: 5001
+__________________________
+
+18.02.2020 23:15:45:4067 AmadeoServ------>OnStart : GeneralUtils, 1.0.2.0: Service Properly started v1.9.9.0
+__________________________
+
+18.02.2020 23:16:38:8153 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: 26564d7c-24a4-4aed-b021-06c5b985a2fa, STATUS: Open 
+__________________________
+
+18.02.2020 23:16:41:2341 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+18.02.2020 23:16:41:2631 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+18.02.2020 23:18:23:8571 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: 26564d7c-24a4-4aed-b021-06c5b985a2fa, STATUS: Open 
+__________________________
+
+18.02.2020 23:18:44:5993 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: ebb3be3f-cdbb-44f4-887a-d2c0613c6b18, STATUS: Open 
+__________________________
+
+18.02.2020 23:18:46:1889 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+18.02.2020 23:18:46:2038 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+18.02.2020 23:25:13:9122 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: 794ec71e-d4c6-417f-a027-4732c102154c, STATUS: Open 
+__________________________
+
+18.02.2020 23:25:15:4868 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+18.02.2020 23:25:15:5098 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+18.02.2020 23:25:29:3183 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: ebb3be3f-cdbb-44f4-887a-d2c0613c6b18, STATUS: Open 
+__________________________
+
+18.02.2020 23:47:56:9747 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: f0f26ba9-bc35-44ca-be9b-b2acc3c319eb, STATUS: Open 
+__________________________
+
+18.02.2020 23:47:58:4755 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+18.02.2020 23:47:58:4765 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+18.02.2020 23:48:00:5818 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: 794ec71e-d4c6-417f-a027-4732c102154c, STATUS: Open 
+__________________________
+
+18.02.2020 23:54:44:4039 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: f0f26ba9-bc35-44ca-be9b-b2acc3c319eb, STATUS: Open 
+__________________________
+
+18.02.2020 23:55:47:0043 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: 9bd844be-218e-4595-9c0c-9d56e1e61398, STATUS: Open 
+__________________________
+
+18.02.2020 23:56:07:8700 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+18.02.2020 23:56:09:0431 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+18.02.2020 23:57:10:5050 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: 653625f5-3f9d-4eee-bf39-df25ede46ecb, STATUS: Open 
+__________________________
+
+18.02.2020 23:57:12:1203 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+18.02.2020 23:57:12:1243 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+18.02.2020 23:57:21:1146 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: 9bd844be-218e-4595-9c0c-9d56e1e61398, STATUS: Open 
+__________________________
+
+18.02.2020 23:59:33:0887 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: 653625f5-3f9d-4eee-bf39-df25ede46ecb, STATUS: Open 
+__________________________
+

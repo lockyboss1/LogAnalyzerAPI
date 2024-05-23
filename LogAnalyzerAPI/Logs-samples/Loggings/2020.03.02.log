@@ -1,0 +1,48 @@
+02.03.2020 05:10:00:1801 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: feadefe1-7586-4ef9-b7ab-f7a9ba131e37, STATUS: Open 
+__________________________
+
+02.03.2020 05:17:15:3023 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: feadefe1-7586-4ef9-b7ab-f7a9ba131e37, STATUS: Open 
+__________________________
+
+02.03.2020 10:50:23:0258 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: a14969c4-995b-46f7-add3-629389eeef4d, STATUS: Open 
+__________________________
+
+02.03.2020 10:50:27:0658 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+02.03.2020 10:50:27:0698 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+02.03.2020 10:52:03:4837 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: a14969c4-995b-46f7-add3-629389eeef4d, STATUS: Open 
+__________________________
+
+02.03.2020 10:54:01:0115 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: 451041f5-a540-4cf1-b28d-29f1c1b3b40d, STATUS: Open 
+__________________________
+
+02.03.2020 10:54:02:9425 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+02.03.2020 10:54:02:9445 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+02.03.2020 10:56:33:7971 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: 451041f5-a540-4cf1-b28d-29f1c1b3b40d, STATUS: Open 
+__________________________
+
+02.03.2020 11:07:38:3433 Log->------> : GeneralUtils, 1.0.2.0:  AccoutID : 11111111, User: , ConnectionID: 39e9f46a-debe-4a9e-bdaa-783177de4084, STATUS: Open 
+__________________________
+
+02.03.2020 11:07:40:2788 DataNotifier------>SubscribToDoorEvents : GeneralUtils, 1.0.2.0: Subscribed to the Real time Door Events
+__________________________
+
+02.03.2020 11:07:40:4008 DataNotifier------>SubscribToThePmsEvent : GeneralUtils, 1.0.2.0: Subscribed to the Real time Pms Events:  PMS_CONNECTED
+__________________________
+
+02.03.2020 11:09:24:5632 Log->------> : GeneralUtils, 1.0.2.0:  ConnectionID: 39e9f46a-debe-4a9e-bdaa-783177de4084, STATUS: Open 
+__________________________
+
+02.03.2020 23:00:16:6048 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0: Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Reading from the stream has failed.
+__________________________
+
+02.03.2020 23:00:16:8985 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0: Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Reading from the stream has failed.
+__________________________
+

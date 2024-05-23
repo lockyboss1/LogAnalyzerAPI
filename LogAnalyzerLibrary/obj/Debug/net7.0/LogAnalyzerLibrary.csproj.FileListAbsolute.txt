@@ -1,0 +1,12 @@
+/Users/sonuga/Desktop/Programs/LogAnalyzerAPI/LogAnalyzerLibrary/bin/Debug/net7.0/LogAnalyzerLibrary.deps.json
+/Users/sonuga/Desktop/Programs/LogAnalyzerAPI/LogAnalyzerLibrary/bin/Debug/net7.0/LogAnalyzerLibrary.dll
+/Users/sonuga/Desktop/Programs/LogAnalyzerAPI/LogAnalyzerLibrary/bin/Debug/net7.0/LogAnalyzerLibrary.pdb
+/Users/sonuga/Desktop/Programs/LogAnalyzerAPI/LogAnalyzerLibrary/obj/Debug/net7.0/LogAnalyzerLibrary.csproj.AssemblyReference.cache
+/Users/sonuga/Desktop/Programs/LogAnalyzerAPI/LogAnalyzerLibrary/obj/Debug/net7.0/LogAnalyzerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonuga/Desktop/Programs/LogAnalyzerAPI/LogAnalyzerLibrary/obj/Debug/net7.0/LogAnalyzerLibrary.AssemblyInfoInputs.cache
+/Users/sonuga/Desktop/Programs/LogAnalyzerAPI/LogAnalyzerLibrary/obj/Debug/net7.0/LogAnalyzerLibrary.AssemblyInfo.cs
+/Users/sonuga/Desktop/Programs/LogAnalyzerAPI/LogAnalyzerLibrary/obj/Debug/net7.0/LogAnalyzerLibrary.csproj.CoreCompileInputs.cache
+/Users/sonuga/Desktop/Programs/LogAnalyzerAPI/LogAnalyzerLibrary/obj/Debug/net7.0/LogAnalyzerLibrary.dll
+/Users/sonuga/Desktop/Programs/LogAnalyzerAPI/LogAnalyzerLibrary/obj/Debug/net7.0/refint/LogAnalyzerLibrary.dll
+/Users/sonuga/Desktop/Programs/LogAnalyzerAPI/LogAnalyzerLibrary/obj/Debug/net7.0/LogAnalyzerLibrary.pdb
+/Users/sonuga/Desktop/Programs/LogAnalyzerAPI/LogAnalyzerLibrary/obj/Debug/net7.0/ref/LogAnalyzerLibrary.dll

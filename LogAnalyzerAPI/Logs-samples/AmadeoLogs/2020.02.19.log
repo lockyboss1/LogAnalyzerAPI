@@ -1,0 +1,92 @@
+19.02.2020 12:40:37:9226 ComputerInfosController------>INT_BulkAction : GeneralUtils, 1.0.2.0: The model backing the 'IntegraContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+__________________________
+
+19.02.2020 12:40:40:1898 ComputerInfosController------>Int_CreateComputerInfos : GeneralUtils, 1.0.2.0: The model backing the 'IntegraContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+__________________________
+
+19.02.2020 12:40:41:7741 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0:    at System.Data.Entity.CreateDatabaseIfNotExists`1.InitializeDatabase(TContext context)
+   at System.Data.Entity.Internal.InternalContext.PerformInitializationAction(Action action)
+   at System.Data.Entity.Internal.InternalContext.PerformDatabaseInitialization()
+   at System.Data.Entity.Internal.RetryAction`1.PerformAction(TInput input)
+   at System.Data.Entity.Internal.LazyInternalContext.InitializeDatabaseAction(Action`1 action)
+   at System.Data.Entity.Internal.LazyInternalContext.get_ObjectContext()
+   at System.Data.Entity.Internal.InternalContext.ExecuteSqlQueryAsync[TElement](String sql, Nullable`1 streaming, Object[] parameters)
+   at System.Data.Entity.Internal.InternalContext.ExecuteSqlQueryAsync(Type elementType, String sql, Nullable`1 streaming, Object[] parameters)
+   at System.Data.Entity.Internal.InternalSqlNonSetQuery.GetAsyncEnumerator()
+   at System.Data.Entity.Infrastructure.DbRawSqlQuery`1.System.Data.Entity.Infrastructure.IDbAsyncEnumerable<TElement>.GetAsyncEnumerator()
+   at System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.ForEachAsync[T](IDbAsyncEnumerable`1 source, Action`1 action, CancellationToken cancellationToken)
+   at System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.ToListAsync[T](IDbAsyncEnumerable`1 source, CancellationToken cancellationToken)
+   at System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.ToListAsync[T](IDbAsyncEnumerable`1 source)
+   at DALRepository.Context.IntegraContext.<ExecuteQuery>d__203`1.MoveNext()
+__________________________
+
+19.02.2020 12:40:49:4151 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0:    at System.Data.Entity.CreateDatabaseIfNotExists`1.InitializeDatabase(TContext context)
+   at System.Data.Entity.Internal.InternalContext.PerformInitializationAction(Action action)
+   at System.Data.Entity.Internal.InternalContext.PerformDatabaseInitialization()
+   at System.Data.Entity.Internal.RetryAction`1.PerformAction(TInput input)
+   at System.Data.Entity.Internal.LazyInternalContext.InitializeDatabaseAction(Action`1 action)
+   at System.Data.Entity.Internal.LazyInternalContext.get_ObjectContext()
+   at System.Data.Entity.Internal.InternalContext.ExecuteSqlQueryAsync[TElement](String sql, Nullable`1 streaming, Object[] parameters)
+   at System.Data.Entity.Internal.InternalContext.ExecuteSqlQueryAsync(Type elementType, String sql, Nullable`1 streaming, Object[] parameters)
+   at System.Data.Entity.Internal.InternalSqlNonSetQuery.GetAsyncEnumerator()
+   at System.Data.Entity.Infrastructure.DbRawSqlQuery`1.System.Data.Entity.Infrastructure.IDbAsyncEnumerable<TElement>.GetAsyncEnumerator()
+   at System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.ForEachAsync[T](IDbAsyncEnumerable`1 source, Action`1 action, CancellationToken cancellationToken)
+   at System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.ToListAsync[T](IDbAsyncEnumerable`1 source, CancellationToken cancellationToken)
+   at System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.ToListAsync[T](IDbAsyncEnumerable`1 source)
+   at DALRepository.Context.IntegraContext.<ExecuteQuery>d__203`1.MoveNext()
+__________________________
+
+19.02.2020 12:40:56:4217 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0:    at System.Data.Entity.CreateDatabaseIfNotExists`1.InitializeDatabase(TContext context)
+   at System.Data.Entity.Internal.InternalContext.PerformInitializationAction(Action action)
+   at System.Data.Entity.Internal.InternalContext.PerformDatabaseInitialization()
+   at System.Data.Entity.Internal.RetryAction`1.PerformAction(TInput input)
+   at System.Data.Entity.Internal.LazyInternalContext.InitializeDatabaseAction(Action`1 action)
+   at System.Data.Entity.Internal.LazyInternalContext.get_ObjectContext()
+   at System.Data.Entity.Internal.InternalContext.ExecuteSqlQueryAsync[TElement](String sql, Nullable`1 streaming, Object[] parameters)
+   at System.Data.Entity.Internal.InternalContext.ExecuteSqlQueryAsync(Type elementType, String sql, Nullable`1 streaming, Object[] parameters)
+   at System.Data.Entity.Internal.InternalSqlNonSetQuery.GetAsyncEnumerator()
+   at System.Data.Entity.Infrastructure.DbRawSqlQuery`1.System.Data.Entity.Infrastructure.IDbAsyncEnumerable<TElement>.GetAsyncEnumerator()
+   at System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.ForEachAsync[T](IDbAsyncEnumerable`1 source, Action`1 action, CancellationToken cancellationToken)
+   at System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.ToListAsync[T](IDbAsyncEnumerable`1 source, CancellationToken cancellationToken)
+   at System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.ToListAsync[T](IDbAsyncEnumerable`1 source)
+   at DALRepository.Context.IntegraContext.<ExecuteQuery>d__203`1.MoveNext()
+__________________________
+
+19.02.2020 12:41:08:8599 ComputerInfosController------>INT_BulkAction : GeneralUtils, 1.0.2.0: The model backing the 'IntegraContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+__________________________
+
+19.02.2020 12:41:10:6730 ComputerInfosController------>Int_CreateComputerInfos : GeneralUtils, 1.0.2.0: The model backing the 'IntegraContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+__________________________
+
+19.02.2020 12:41:11:8619 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0:    at System.Data.Entity.CreateDatabaseIfNotExists`1.InitializeDatabase(TContext context)
+   at System.Data.Entity.Internal.InternalContext.PerformInitializationAction(Action action)
+   at System.Data.Entity.Internal.InternalContext.PerformDatabaseInitialization()
+   at System.Data.Entity.Internal.RetryAction`1.PerformAction(TInput input)
+   at System.Data.Entity.Internal.LazyInternalContext.InitializeDatabaseAction(Action`1 action)
+   at System.Data.Entity.Internal.LazyInternalContext.get_ObjectContext()
+   at System.Data.Entity.Internal.InternalContext.ExecuteSqlQueryAsync[TElement](String sql, Nullable`1 streaming, Object[] parameters)
+   at System.Data.Entity.Internal.InternalContext.ExecuteSqlQueryAsync(Type elementType, String sql, Nullable`1 streaming, Object[] parameters)
+   at System.Data.Entity.Internal.InternalSqlNonSetQuery.GetAsyncEnumerator()
+   at System.Data.Entity.Infrastructure.DbRawSqlQuery`1.System.Data.Entity.Infrastructure.IDbAsyncEnumerable<TElement>.GetAsyncEnumerator()
+   at System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.ForEachAsync[T](IDbAsyncEnumerable`1 source, Action`1 action, CancellationToken cancellationToken)
+   at System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.ToListAsync[T](IDbAsyncEnumerable`1 source, CancellationToken cancellationToken)
+   at System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.ToListAsync[T](IDbAsyncEnumerable`1 source)
+   at DALRepository.Context.IntegraContext.<ExecuteQuery>d__203`1.MoveNext()
+__________________________
+
+19.02.2020 12:41:20:9806 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0:    at System.Data.Entity.CreateDatabaseIfNotExists`1.InitializeDatabase(TContext context)
+   at System.Data.Entity.Internal.InternalContext.PerformInitializationAction(Action action)
+   at System.Data.Entity.Internal.InternalContext.PerformDatabaseInitialization()
+   at System.Data.Entity.Internal.RetryAction`1.PerformAction(TInput input)
+   at System.Data.Entity.Internal.LazyInternalContext.InitializeDatabaseAction(Action`1 action)
+   at System.Data.Entity.Internal.LazyInternalContext.get_ObjectContext()
+   at System.Data.Entity.Internal.InternalContext.ExecuteSqlQueryAsync[TElement](String sql, Nullable`1 streaming, Object[] parameters)
+   at System.Data.Entity.Internal.InternalContext.ExecuteSqlQueryAsync(Type elementType, String sql, Nullable`1 streaming, Object[] parameters)
+   at System.Data.Entity.Internal.InternalSqlNonSetQuery.GetAsyncEnumerator()
+   at System.Data.Entity.Infrastructure.DbRawSqlQuery`1.System.Data.Entity.Infrastructure.IDbAsyncEnumerable<TElement>.GetAsyncEnumerator()
+   at System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.ForEachAsync[T](IDbAsyncEnumerable`1 source, Action`1 action, CancellationToken cancellationToken)
+   at System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.ToListAsync[T](IDbAsyncEnumerable`1 source, CancellationToken cancellationToken)
+   at System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.ToListAsync[T](IDbAsyncEnumerable`1 source)
+   at DALRepository.Context.IntegraContext.<ExecuteQuery>d__203`1.MoveNext()
+__________________________
+

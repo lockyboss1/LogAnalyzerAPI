@@ -1,0 +1,10 @@
+23.03.2020 10:25:51:1974 PmsManager------>ReadSocket : GeneralUtils, 1.0.2.0: Thread was being aborted.
+__________________________
+
+
+------>23.03.2020 10:25:51:3063 PmsManager------>ForceDisconnection : GeneralUtils, 1.0.2.0: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+__________________________
+
+
+------>

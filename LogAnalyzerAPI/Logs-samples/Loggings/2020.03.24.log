@@ -1,0 +1,15 @@
+24.03.2020 13:35:33:3697 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0: Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Reading from the stream has failed.
+__________________________
+
+24.03.2020 13:35:33:6905 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0: Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Reading from the stream has failed.
+__________________________
+
+24.03.2020 18:25:49:1466 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Stopping all communications...
+__________________________
+
+24.03.2020 18:25:49:5029 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: All communications STOPPED!
+__________________________
+
+24.03.2020 18:25:49:5038 AmadeoServ------>OnStop : GeneralUtils, 1.0.2.0: Object reference not set to an instance of an object.
+__________________________
+

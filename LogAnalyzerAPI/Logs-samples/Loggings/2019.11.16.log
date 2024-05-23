@@ -1,0 +1,9 @@
+16.11.2019 04:08:57:4988 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Starting listening on port: 5001
+__________________________
+
+16.11.2019 04:09:11:5135 AmadeoServ------>OnStart : GeneralUtils, 1.0.2.0: Service Properly started v1.9.9.0
+__________________________
+
+16.11.2019 11:40:37:9099 DataAccessLayer------>ExecuteNonQuery : GeneralUtils, 1.0.2.0: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+

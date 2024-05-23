@@ -1,0 +1,6 @@
+01.06.2020 00:52:30:4684 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0: Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Reading from the stream has failed.
+__________________________
+
+01.06.2020 00:52:31:1663 DataManagr------>getallowedipsfrompms : GeneralUtils, 1.0.2.0: Object reference not set to an instance of an object.
+__________________________
+

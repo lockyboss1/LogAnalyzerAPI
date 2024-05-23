@@ -1,0 +1,392 @@
+30.04.2020 03:34:14:4691 AmadeoServ------>OnStart : GeneralUtils, 1.0.2.0: Service Properly started v1.9.9.0
+__________________________
+
+30.04.2020 03:34:53:0537 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Stopping all communications...
+__________________________
+
+30.04.2020 03:34:53:0667 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: All communications STOPPED!
+__________________________
+
+30.04.2020 03:34:53:0677 AmadeoServ------>OnStop : GeneralUtils, 1.0.2.0: Object reference not set to an instance of an object.
+__________________________
+
+30.04.2020 03:39:40:6490 AmadeoServ------>OnStart : GeneralUtils, 1.0.2.0: Service Properly started v1.9.9.0
+__________________________
+
+30.04.2020 03:40:44:8941 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Stopping all communications...
+__________________________
+
+30.04.2020 03:40:44:9041 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: All communications STOPPED!
+__________________________
+
+30.04.2020 03:40:44:9051 AmadeoServ------>OnStop : GeneralUtils, 1.0.2.0: Object reference not set to an instance of an object.
+__________________________
+
+30.04.2020 13:14:20:3677 AmadeoServ------>OnStart : GeneralUtils, 1.0.2.0: Service Properly started v1.9.9.0
+__________________________
+
+30.04.2020 13:15:02:7214 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Stopping all communications...
+__________________________
+
+30.04.2020 13:15:02:7521 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: All communications STOPPED!
+__________________________
+
+30.04.2020 13:15:02:7531 AmadeoServ------>OnStop : GeneralUtils, 1.0.2.0: Object reference not set to an instance of an object.
+__________________________
+
+30.04.2020 15:21:47:1209 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0: Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Reading from the stream has failed.
+__________________________
+
+30.04.2020 15:22:18:1187 AmadeoServ------>OnStart : GeneralUtils, 1.0.2.0: Object reference not set to an instance of an object. MySQL Server not Started... retry 2/3 
+__________________________
+
+30.04.2020 15:23:38:8337 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Starting listening on port: 5001
+__________________________
+
+30.04.2020 15:23:39:9431 AmadeoServ------>OnStart : GeneralUtils, 1.0.2.0: Service Properly started v1.9.9.0
+__________________________
+
+30.04.2020 15:42:17:8052 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0: Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Reading from the stream has failed.
+__________________________
+
+30.04.2020 15:42:49:6122 AmadeoServ------>OnStart : GeneralUtils, 1.0.2.0: Object reference not set to an instance of an object. MySQL Server not Started... retry 2/3 
+__________________________
+
+30.04.2020 15:43:10:0326 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Starting listening on port: 5001
+__________________________
+
+30.04.2020 15:43:10:8920 AmadeoServ------>OnStart : GeneralUtils, 1.0.2.0: Service Properly started v1.9.9.0
+__________________________
+
+30.04.2020 15:55:39:0848 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Stopping all communications...
+__________________________
+
+30.04.2020 15:55:39:1268 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: All communications STOPPED!
+__________________________
+
+30.04.2020 15:55:39:1277 AmadeoServ------>OnStop : GeneralUtils, 1.0.2.0: Object reference not set to an instance of an object.
+__________________________
+
+30.04.2020 15:55:43:4847 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Starting listening on port: 5001
+__________________________
+
+30.04.2020 15:55:43:8722 AmadeoServ------>OnStart : GeneralUtils, 1.0.2.0: Service Properly started v1.9.9.0
+__________________________
+
+30.04.2020 16:02:16:2459 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0: Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Reading from the stream has failed.
+__________________________
+
+30.04.2020 16:02:47:1344 AmadeoServ------>OnStart : GeneralUtils, 1.0.2.0: Object reference not set to an instance of an object. MySQL Server not Started... retry 2/3 
+__________________________
+
+30.04.2020 16:03:12:6318 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Starting listening on port: 5001
+__________________________
+
+30.04.2020 16:03:13:8348 AmadeoServ------>OnStart : GeneralUtils, 1.0.2.0: Service Properly started v1.9.9.0
+__________________________
+
+30.04.2020 16:12:54:3795 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/30/2020 4:12:54 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -55
+Message ID : 1
+Data RCv   :  0x80E180FB1B61F6
+PACKAGE RECEIVED  :  4/30/2020 4:12:54 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :595.6519823 s, Milliseconds: 595651.9823 ms
+
+__________________________
+
+30.04.2020 16:12:54:6543 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( config pkg ack  ) :  0x200080A0
+Executing Time: 0.2897869 seconds. - 289.7869ms.
+
+__________________________
+
+30.04.2020 16:12:55:2040 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/30/2020 4:12:55 PM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 101
+Message ID : 1
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+30.04.2020 16:13:02:4210 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/30/2020 4:13:02 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -57
+Message ID : 4
+Data RCv   :  0xC8010E790503000F1E04E407E301100100EB
+PACKAGE RECEIVED  :  4/30/2020 4:13:02 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :8.0404482 s, Milliseconds: 8040.4482 ms
+
+__________________________
+
+30.04.2020 16:13:02:4679 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 4 - lockid-> 200 ) :  0x200180A1
+Executing Time: 0.0479731 seconds. - 47.9731ms.
+
+__________________________
+
+30.04.2020 16:13:02:6571 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 13107200 -> 101
+Lock Date : 30.04.2020 15:00:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.17188739776611 v
+Executing Time: 0.2371699 seconds. - 237.1699ms.
+
+__________________________
+
+30.04.2020 16:13:03:0805 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/30/2020 4:13:03 PM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 101
+Message ID : 4
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+30.04.2020 16:13:08:4745 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/30/2020 4:13:08 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -51
+Message ID : 5
+Data RCv   :  0xC851073100E013CF006B51
+PACKAGE RECEIVED  :  4/30/2020 4:13:08 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :6.0525679 s, Milliseconds: 6052.5679 ms
+
+__________________________
+
+30.04.2020 16:13:08:6271 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  (  req/res data - (MSGID) 5 -> 200 ) :  0xC802070D101E04E4070442
+Executing Time: 0.1524929 seconds. - 153.4925ms.
+
+__________________________
+
+30.04.2020 16:13:08:9289 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Audit Data) --------------------------------------
+Operationa Code : 107
+Audit Date : 2020.04.30 15:00
+Lock Id : 13107200 -> 101
+User Id : 14680113
+Serial Number Part : 
+Executing Time: 0.455319 seconds. - 455.319ms.
+
+__________________________
+
+30.04.2020 16:13:09:1509 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/30/2020 4:13:09 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -51
+Message ID : 6
+Data RCv   :  0x200280A2
+PACKAGE RECEIVED  :  4/30/2020 4:13:09 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :0.6753 s, Milliseconds: 675.3 ms
+
+__________________________
+
+30.04.2020 16:13:09:3719 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/30/2020 4:13:09 PM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 101
+Message ID : 5
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+30.04.2020 16:13:10:1448 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/30/2020 4:13:10 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -55
+Message ID : 7
+Data RCv   :  0x80E180FB1B61F6
+PACKAGE RECEIVED  :  4/30/2020 4:13:10 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :0.9939598 s, Milliseconds: 993.9598 ms
+
+__________________________
+
+30.04.2020 16:13:10:3964 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( config pkg ack  ) :  0x200080A0
+Executing Time: 0.2506221 seconds. - 250.6221ms.
+
+__________________________
+
+30.04.2020 16:13:11:0261 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/30/2020 4:13:11 PM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 101
+Message ID : 7
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+30.04.2020 16:13:22:8099 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/30/2020 4:13:22 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -59
+Message ID : 10
+Data RCv   :  0xC8010E7905030D101E04E407E40100010042
+PACKAGE RECEIVED  :  4/30/2020 4:13:22 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :12.6650375 s, Milliseconds: 12665.0375 ms
+
+__________________________
+
+30.04.2020 16:13:22:8178 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 10 - lockid-> 200 ) :  0x200180A1
+Executing Time: 0.0069963 seconds. - 6.9963ms.
+
+__________________________
+
+30.04.2020 16:13:22:8710 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 13107200 -> 101
+Lock Date : 30.04.2020 16:13:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.22650623321533 v
+Executing Time: 0.0601577 seconds. - 60.1577ms.
+
+__________________________
+
+30.04.2020 16:13:23:4712 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/30/2020 4:13:23 PM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 101
+Message ID : 10
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+30.04.2020 16:13:23:4882 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+4/30/2020 4:13:23 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -59
+Message ID : 11
+Data RCv   :  0xC8600E000019693F41003F0000000000015A
+PACKAGE RECEIVED  :  4/30/2020 4:13:23 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :0.6783063 s, Milliseconds: 678.3063 ms
+
+__________________________
+
+30.04.2020 16:13:23:5011 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 11 - lockid-> 200 ) :  0x206080C0
+Executing Time: 0.0120176 seconds. - 12.0176ms.
+
+__________________________
+
+30.04.2020 16:13:23:6072 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Device Comm Diagnostic Data) --------------------------------------
+Device : 13107200 -> 101
+Access Point : 426327873 , 
+Ap Channel  : 0 , 
+Signal Strenght : -63 , 
+Comm Retries : 0 , 
+Comm Errors : 0 , 
+Total Comm  : 1 , 
+Preffered  : IS_BROADCAST_FIRST , 
+Executing Time: 0.1190259 seconds. - 119.0259ms.
+
+__________________________
+
+30.04.2020 16:13:24:1422 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 4/30/2020 4:13:24 PM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 101
+Message ID : 11
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+30.04.2020 18:03:26:4371 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0:    at System.Data.Entity.Core.EntityClient.EntityConnection.<OpenAsync>d__8.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Core.Objects.ObjectContext.<EnsureConnectionAsync>d__9.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Core.Objects.ObjectContext.<ExecuteInTransactionAsync>d__3d`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Utilities.TaskExtensions.CultureAwaiter`1.GetResult()
+   at System.Data.Entity.Core.Objects.ObjectContext.<ExecuteStoreQueryReliablyAsync>d__6c`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Utilities.TaskExtensions.CultureAwaiter`1.GetResult()
+   at System.Data.Entity.Internal.LazyAsyncEnumerator`1.<FirstMoveNextAsync>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.<ForEachAsync>d__5`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at DALRepository.Context.IntegraContext.B}3p>3\.II\\"rsfj3 `=Thn!A$`1.MoveNext()
+__________________________
+
+30.04.2020 18:03:26:7963 ServiceScheduler------>RunCheckInOuts : GeneralUtils, 1.0.2.0: Object reference not set to an instance of an object.
+__________________________
+
+
+------>30.04.2020 19:03:32:2358 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0:    at System.Data.Entity.Core.EntityClient.EntityConnection.<OpenAsync>d__8.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Core.Objects.ObjectContext.<EnsureConnectionAsync>d__9.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Core.Objects.ObjectContext.<ExecuteInTransactionAsync>d__3d`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Utilities.TaskExtensions.CultureAwaiter`1.GetResult()
+   at System.Data.Entity.Core.Objects.ObjectContext.<ExecuteStoreQueryReliablyAsync>d__6c`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Utilities.TaskExtensions.CultureAwaiter`1.GetResult()
+   at System.Data.Entity.Internal.LazyAsyncEnumerator`1.<FirstMoveNextAsync>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.<ForEachAsync>d__5`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at DALRepository.Context.IntegraContext.B}3p>3\.II\\"rsfj3 `=Thn!A$`1.MoveNext()
+__________________________
+
+30.04.2020 19:03:32:3857 ServiceScheduler------>RunCheckInOuts : GeneralUtils, 1.0.2.0: Object reference not set to an instance of an object.
+__________________________
+
+
+------>

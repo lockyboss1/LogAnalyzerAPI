@@ -1,0 +1,15 @@
+20.01.2020 02:05:11:8498 DataAccessLayer------>ExecuteQuery : GeneralUtils, 1.0.2.0: Unable to connect to any of the specified MySQL hosts.
+__________________________
+
+20.01.2020 02:05:12:8810 DataAccessLayer------>ExecuteNonQuery : GeneralUtils, 1.0.2.0: Unable to connect to any of the specified MySQL hosts.
+__________________________
+
+20.01.2020 02:05:13:8966 DataAccessLayer------>ExecuteNonQuery : GeneralUtils, 1.0.2.0: Unable to connect to any of the specified MySQL hosts.
+__________________________
+
+20.01.2020 02:08:39:3364 PmsManager------>PmsMgr : GeneralUtils, 1.0.2.0: Starting listening on port: 5001
+__________________________
+
+20.01.2020 02:08:39:9597 AmadeoServ------>OnStart : GeneralUtils, 1.0.2.0: Service Properly started v1.9.9.0
+__________________________
+

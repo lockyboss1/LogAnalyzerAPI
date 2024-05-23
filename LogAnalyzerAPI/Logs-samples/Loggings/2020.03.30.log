@@ -1,0 +1,715 @@
+30.03.2020 00:08:31:3807 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+3/30/2020 12:08:31 AM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -30
+Message ID : 96
+Data RCv   :  0xC8010E79050308001E03E407E70111010059
+PACKAGE RECEIVED  :  3/30/2020 12:08:31 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :3291.1090605 s, Milliseconds: 3291109.0605 ms
+
+__________________________
+
+30.03.2020 00:08:31:6766 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 96 - lockid-> 200 ) :  0x200180A1
+Executing Time: 0.2958795 seconds. - 295.8795ms.
+
+__________________________
+
+30.03.2020 00:08:31:6956 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 13107200 -> 101
+Lock Date : 30.03.2020 00:08:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.28112459182739 v
+Executing Time: 0.3149252 seconds. - 314.9252ms.
+
+__________________________
+
+30.03.2020 00:08:32:0358 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 3/30/2020 12:08:32 AM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 101
+Message ID : 96
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+30.03.2020 00:09:59:5125 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+3/30/2020 12:09:59 AM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -26
+Message ID : 97
+Data RCv   :  0xC8010E79050309001E03E407E601010100C2
+PACKAGE RECEIVED  :  3/30/2020 12:09:59 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :88.1258204 s, Milliseconds: 88125.8204 ms
+
+__________________________
+
+30.03.2020 00:09:59:5435 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 97 - lockid-> 200 ) :  0x200180A1
+Executing Time: 0.0309826 seconds. - 30.9826ms.
+
+__________________________
+
+30.03.2020 00:09:59:6111 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 13107200 -> 101
+Lock Date : 30.03.2020 00:09:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.28112459182739 v
+Executing Time: 0.0986196 seconds. - 98.6196ms.
+
+__________________________
+
+30.03.2020 00:10:00:1689 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 3/30/2020 12:10:00 AM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 101
+Message ID : 97
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+30.03.2020 07:23:00:0407 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+3/30/2020 7:23:00 AM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -30
+Message ID : 98
+Data RCv   :  0xC8010E79050316071E03E407E60101010015
+PACKAGE RECEIVED  :  3/30/2020 7:23:00 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :25980.5202518 s, Milliseconds: 25980520.2518 ms
+
+__________________________
+
+30.03.2020 07:23:00:2956 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 98 - lockid-> 200 ) :  0x200180A1
+Executing Time: 0.255803 seconds. - 255.803ms.
+
+__________________________
+
+30.03.2020 07:23:00:3105 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 13107200 -> 101
+Lock Date : 30.03.2020 07:22:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.28112459182739 v
+Executing Time: 0.2697649 seconds. - 269.7649ms.
+
+__________________________
+
+30.03.2020 07:23:00:6897 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 3/30/2020 7:23:00 AM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 101
+Message ID : 98
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+30.03.2020 07:35:16:6016 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+3/30/2020 7:35:16 AM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -31
+Message ID : 99
+Data RCv   :  0xC8010E79050323071E03E407E701010100AC
+PACKAGE RECEIVED  :  3/30/2020 7:35:16 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :736.5528515 s, Milliseconds: 736552.8515 ms
+
+__________________________
+
+30.03.2020 07:35:16:8800 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 99 - lockid-> 200 ) :  0x200180A1
+Executing Time: 0.2793656 seconds. - 279.3656ms.
+
+__________________________
+
+30.03.2020 07:35:16:9584 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 13107200 -> 101
+Lock Date : 30.03.2020 07:35:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.28112459182739 v
+Executing Time: 0.3578358 seconds. - 357.8358ms.
+
+__________________________
+
+30.03.2020 07:35:17:2376 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 3/30/2020 7:35:17 AM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 101
+Message ID : 99
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+30.03.2020 07:41:45:4927 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+3/30/2020 7:41:45 AM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -27
+Message ID : 100
+Data RCv   :  0xC8010E79050329071E03E407E701010100B1
+PACKAGE RECEIVED  :  3/30/2020 7:41:45 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :388.879051 s, Milliseconds: 388879.051 ms
+
+__________________________
+
+30.03.2020 07:41:45:6536 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 100 - lockid-> 200 ) :  0x200180A1
+Executing Time: 0.1609029 seconds. - 160.9029ms.
+
+__________________________
+
+30.03.2020 07:41:45:6686 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 13107200 -> 101
+Lock Date : 30.03.2020 07:41:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.28112459182739 v
+Executing Time: 0.1759612 seconds. - 175.9612ms.
+
+__________________________
+
+30.03.2020 07:41:46:1385 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 3/30/2020 7:41:46 AM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 101
+Message ID : 100
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+30.03.2020 07:54:33:3924 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+3/30/2020 7:54:33 AM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -27
+Message ID : 101
+Data RCv   :  0xC8010E79050336071E03E407E701010100A2
+PACKAGE RECEIVED  :  3/30/2020 7:54:33 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :767.8907251 s, Milliseconds: 767890.7251 ms
+
+__________________________
+
+30.03.2020 07:54:33:6212 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 101 - lockid-> 200 ) :  0x200180A1
+Executing Time: 0.2288684 seconds. - 228.8684ms.
+
+__________________________
+
+30.03.2020 07:54:33:6342 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 13107200 -> 101
+Lock Date : 30.03.2020 07:54:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.28112459182739 v
+Executing Time: 0.2418619 seconds. - 241.8619ms.
+
+__________________________
+
+30.03.2020 07:54:34:0474 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 3/30/2020 7:54:34 AM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 101
+Message ID : 101
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+30.03.2020 08:40:23:7804 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+3/30/2020 8:40:23 AM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -30
+Message ID : 102
+Data RCv   :  0xC8010E79050328081E03E407E601010100CC
+PACKAGE RECEIVED  :  3/30/2020 8:40:23 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :2750.3810346 s, Milliseconds: 2750381.0346 ms
+
+__________________________
+
+30.03.2020 08:40:23:9433 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 102 - lockid-> 200 ) :  0x200180A1
+Executing Time: 0.1638971 seconds. - 163.8971ms.
+
+__________________________
+
+30.03.2020 08:40:23:9715 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 13107200 -> 101
+Lock Date : 30.03.2020 08:40:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.28112459182739 v
+Executing Time: 0.1911089 seconds. - 191.1089ms.
+
+__________________________
+
+30.03.2020 08:40:24:4388 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 3/30/2020 8:40:24 AM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 101
+Message ID : 102
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+30.03.2020 11:08:14:5018 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+3/30/2020 11:08:14 AM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -32
+Message ID : 103
+Data RCv   :  0xC8600E000019693F410020000000000011AC
+PACKAGE RECEIVED  :  3/30/2020 11:08:14 AM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :8870.7083937 s, Milliseconds: 8870708.3937 ms
+
+__________________________
+
+30.03.2020 11:08:14:8906 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 103 - lockid-> 200 ) :  0x206080C0
+Executing Time: 0.3888431 seconds. - 388.8431ms.
+
+__________________________
+
+30.03.2020 11:08:15:0173 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Device Comm Diagnostic Data) --------------------------------------
+Device : 13107200 -> 101
+Access Point : 426327873 , 
+Ap Channel  : 0 , 
+Signal Strenght : -32 , 
+Comm Retries : 0 , 
+Comm Errors : 0 , 
+Total Comm  : 17 , 
+Preffered  : IS_BROADCAST_FIRST , 
+Executing Time: 0.5155925 seconds. - 515.5925ms.
+
+__________________________
+
+30.03.2020 11:08:15:1520 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 3/30/2020 11:08:15 AM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 101
+Message ID : 103
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+30.03.2020 12:39:14:5317 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+3/30/2020 12:39:14 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -34
+Message ID : 104
+Data RCv   :  0xC8010E790503270C1E03E407E701000100F7
+PACKAGE RECEIVED  :  3/30/2020 12:39:14 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :5460.0149976 s, Milliseconds: 5460014.9976 ms
+
+__________________________
+
+30.03.2020 12:39:14:9536 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 104 - lockid-> 200 ) :  0x200180A1
+Executing Time: 0.4228322 seconds. - 422.8322ms.
+
+__________________________
+
+30.03.2020 12:39:15:0226 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 13107200 -> 101
+Lock Date : 30.03.2020 12:39:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.28112459182739 v
+Executing Time: 0.4918659 seconds. - 491.8659ms.
+
+__________________________
+
+30.03.2020 12:39:15:1932 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 3/30/2020 12:39:15 PM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 101
+Message ID : 104
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+30.03.2020 17:35:16:1237 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+3/30/2020 5:35:16 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -34
+Message ID : 105
+Data RCv   :  0xC8010E79050323111E03E407E701010100BC
+PACKAGE RECEIVED  :  3/30/2020 5:35:16 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :17761.4653778 s, Milliseconds: 17761465.3778 ms
+
+__________________________
+
+30.03.2020 17:35:16:1939 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 105 - lockid-> 200 ) :  0x200180A1
+Executing Time: 0.0701401 seconds. - 70.1401ms.
+
+__________________________
+
+30.03.2020 17:35:16:2079 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 13107200 -> 101
+Lock Date : 30.03.2020 17:35:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.28112459182739 v
+Executing Time: 0.0851805 seconds. - 85.1805ms.
+
+__________________________
+
+30.03.2020 17:35:16:7762 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 3/30/2020 5:35:16 PM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 101
+Message ID : 105
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+30.03.2020 17:45:35:4352 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+3/30/2020 5:45:35 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -31
+Message ID : 106
+Data RCv   :  0xC8010E7905032D111E03E407E601010100C7
+PACKAGE RECEIVED  :  3/30/2020 5:45:35 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :619.2772399 s, Milliseconds: 619277.2399 ms
+
+__________________________
+
+30.03.2020 17:45:35:5991 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 106 - lockid-> 200 ) :  0x200180A1
+Executing Time: 0.1649044 seconds. - 164.9044ms.
+
+__________________________
+
+30.03.2020 17:45:35:6121 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 13107200 -> 101
+Lock Date : 30.03.2020 17:45:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.28112459182739 v
+Executing Time: 0.1778984 seconds. - 177.8984ms.
+
+__________________________
+
+30.03.2020 17:45:36:0911 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 3/30/2020 5:45:36 PM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 101
+Message ID : 106
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+30.03.2020 17:53:07:6000 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+3/30/2020 5:53:07 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -32
+Message ID : 107
+Data RCv   :  0xC8010E79050334111E03E407E701010100DA
+PACKAGE RECEIVED  :  3/30/2020 5:53:07 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :452.1568574 s, Milliseconds: 452156.8574 ms
+
+__________________________
+
+30.03.2020 17:53:07:8299 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 107 - lockid-> 200 ) :  0x200180A1
+Executing Time: 0.2288623 seconds. - 228.8623ms.
+
+__________________________
+
+30.03.2020 17:53:08:2174 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 13107200 -> 101
+Lock Date : 30.03.2020 17:52:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.28112459182739 v
+Executing Time: 0.617385 seconds. - 617.385ms.
+
+__________________________
+
+30.03.2020 17:53:08:2534 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 3/30/2020 5:53:08 PM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 101
+Message ID : 107
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+30.03.2020 17:56:27:4269 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+3/30/2020 5:56:27 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -33
+Message ID : 108
+Data RCv   :  0xC8010E79050338111E03E407E70111010066
+PACKAGE RECEIVED  :  3/30/2020 5:56:27 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :199.8129403 s, Milliseconds: 199812.9403 ms
+
+__________________________
+
+30.03.2020 17:56:27:4569 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 108 - lockid-> 200 ) :  0x200180A1
+Executing Time: 0.0299823 seconds. - 29.9823ms.
+
+__________________________
+
+30.03.2020 17:56:27:4689 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 13107200 -> 101
+Lock Date : 30.03.2020 17:56:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.28112459182739 v
+Executing Time: 0.0419923 seconds. - 41.9923ms.
+
+__________________________
+
+30.03.2020 17:56:28:0756 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 3/30/2020 5:56:28 PM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 101
+Message ID : 108
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+30.03.2020 17:57:09:3703 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+3/30/2020 5:57:09 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -30
+Message ID : 109
+Data RCv   :  0xC8010E79050338111E03E407E601010100C9
+PACKAGE RECEIVED  :  3/30/2020 5:57:09 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :41.9373541 s, Milliseconds: 41937.3541 ms
+
+__________________________
+
+30.03.2020 17:57:09:4324 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 109 - lockid-> 200 ) :  0x200180A1
+Executing Time: 0.0620632 seconds. - 62.0632ms.
+
+__________________________
+
+30.03.2020 17:57:09:4474 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 13107200 -> 101
+Lock Date : 30.03.2020 17:56:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.28112459182739 v
+Executing Time: 0.0761262 seconds. - 77.1252ms.
+
+__________________________
+
+30.03.2020 17:57:10:0135 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 3/30/2020 5:57:10 PM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 101
+Message ID : 109
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+30.03.2020 18:06:45:6113 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+3/30/2020 6:06:45 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -32
+Message ID : 110
+Data RCv   :  0xC8010E79050306121E03E407E601110100C5
+PACKAGE RECEIVED  :  3/30/2020 6:06:45 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :576.228003 s, Milliseconds: 576228.003 ms
+
+__________________________
+
+30.03.2020 18:06:45:9015 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 110 - lockid-> 200 ) :  0x200180A1
+Executing Time: 0.2902437 seconds. - 290.2437ms.
+
+__________________________
+
+30.03.2020 18:06:45:9368 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 13107200 -> 101
+Lock Date : 30.03.2020 18:06:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.28112459182739 v
+Executing Time: 0.3254942 seconds. - 325.4942ms.
+
+__________________________
+
+30.03.2020 18:06:46:2686 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 3/30/2020 6:06:46 PM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 101
+Message ID : 110
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+30.03.2020 19:50:18:8794 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+3/30/2020 7:50:18 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -31
+Message ID : 111
+Data RCv   :  0xC8010E79050332131E03E407E6011101005C
+PACKAGE RECEIVED  :  3/30/2020 7:50:18 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :6213.2460686 s, Milliseconds: 6213246.0686 ms
+
+__________________________
+
+30.03.2020 19:50:19:1623 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 111 - lockid-> 200 ) :  0x200180A1
+Executing Time: 0.2828797 seconds. - 282.8797ms.
+
+__________________________
+
+30.03.2020 19:50:19:1843 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 13107200 -> 101
+Lock Date : 30.03.2020 19:50:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.28112459182739 v
+Executing Time: 0.3049493 seconds. - 304.9493ms.
+
+__________________________
+
+30.03.2020 19:50:19:5138 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 3/30/2020 7:50:19 PM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 101
+Message ID : 111
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
+30.03.2020 21:12:15:0865 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+3/30/2020 9:12:15 PM->
+Access Point physical address  : 426327873
+I-lock Physical address : 13107200 ->ID1: 200
+Transaction retry count : 0
+Signal Strength : -32
+Message ID : 112
+Data RCv   :  0xC8010E7905030C151E03E407E701010100B3
+PACKAGE RECEIVED  :  3/30/2020 9:12:15 PM
+TIME ELAPSED SINCE THE LAST PACKAGE  - Seconds :4916.1791279 s, Milliseconds: 4916179.1279 ms
+
+__________________________
+
+30.03.2020 21:12:15:3743 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+Response Data Send  ( req/resp ack - (MSGID) 112 - lockid-> 200 ) :  0x200180A1
+Executing Time: 0.2878303 seconds. - 287.8303ms.
+
+__________________________
+
+30.03.2020 21:12:15:3913 WirelessManagement------>_IlockServices_DataReveived : GeneralUtils, 1.0.2.0: 
+------------------------------------  (Previously received data -> Alive Data) --------------------------------------
+Lock State : NORMAL_CLOSE
+Lock Alarm : DOOR_CONTACT_CLOSED
+Lock Id : 13107200 -> 101
+Lock Date : 30.03.2020 21:12:00
+Fw Version : 14.01.03
+Battery : 1
+Voltage : 6.28112459182739 v
+Executing Time: 0.3048402 seconds. - 304.8402ms.
+
+__________________________
+
+30.03.2020 21:12:15:7573 WirelessManagement------>_IlockServices_DataAcknowledged : GeneralUtils, 1.0.2.0: 3/30/2020 9:12:15 PM->Access point Message acknowledgement: True
+Access Point physical address  : 426327873
+Ilock Name/address : 101
+Message ID : 112
+Error code : 0
+Server side ID : False
+
+
+__________________________
+
